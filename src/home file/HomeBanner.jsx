@@ -3,7 +3,6 @@
 function HomeBanner() {
     return (
         <div>
-
             <div
                 className="hero min-h-screen"
                 style={{
@@ -22,8 +21,6 @@ function HomeBanner() {
                     </div>
                 </div>
             </div>
-
-
         </div>
     )
 }
