@@ -16,7 +16,7 @@ function InfoCard() {
                             />
                         </div>
                         <p className="text-center font-serif mt-5">A Information Of Natural</p>
-                        <p className="text-center font-serif mt-5">
+                        <p className="text-center font-thin mt-5 text-gray-500">
                             "Information is a crucial resource in<br />
                             our daily lives, enabling us to make<br />
                             informed decisions."
@@ -35,7 +35,7 @@ function InfoCard() {
                             />
                         </div>
                         <p className="text-center font-serif mt-5">A Information Of IT</p>
-                        <p className="text-center font-serif mt-5">
+                        <p className="text-center font-thin mt-5 text-gray-500">
                             "Information is a crucial resource in<br />
                             our daily lives, enabling us to make<br />
                             informed decisions."
@@ -54,7 +54,7 @@ function InfoCard() {
                             />
                         </div>
                         <p className="text-center font-serif mt-5">A Information Of Sports</p>
-                        <p className="text-center font-serif mt-5">
+                        <p className="text-center font-thin mt-5 text-gray-500">
                             "Information is a crucial resource in<br />
                             our daily lives, enabling us to make<br />
                             informed decisions."
@@ -73,7 +73,7 @@ function InfoCard() {
                             />
                         </div>
                         <p className="text-center font-serif mt-5">A Information Of world</p>
-                        <p className="text-center font-serif mt-5">
+                        <p className="text-center font-thin mt-5 text-gray-500">
                             "Information is a crucial resource in<br />
                             our daily lives, enabling us to make<br />
                             informed decisions."
