@@ -58,7 +58,7 @@ function Nav() {
                 </div>
 
                 <div className="navbar-end mr-4 lg:mr-16">
-                    <a className="btn">Button</a>
+                    <a className="btn dataText bg-cyan-600 text-white text-2xl">Sign In</a>
                 </div>
             </div>
         </div>

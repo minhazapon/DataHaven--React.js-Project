@@ -33,7 +33,6 @@ function Logo() {
                 </div>
             </div>
         </div>
-
     )
 }
 
