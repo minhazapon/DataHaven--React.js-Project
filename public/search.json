@@ -1,1 +1,58 @@
 
+[
+    {
+      "id": 1,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/24701-nature-natural-beauty.jpg/1200px-24701-nature-natural-beauty.jpg",
+      "name": "Natural",
+      "paragraph": "This is a detailed description of item one. It provides key features and benefits of the item."
+    },
+    {
+      "id": 2,
+      "image": "https://ccitraining.edu/wp-content/uploads/2023/12/Information-Technology.jpg",
+      "name": "information technology",
+      "paragraph": "This is a detailed description of item two. It explains the purpose and usage of the item."
+    },
+    {
+      "id": 3,
+      "image": "https://www.rebeccavanommen.ph/wp-content/uploads/2019/10/01-Night-Run-04-layout_edit_WLogo.jpg",
+      "name": "Sports",
+      "paragraph": "This is a detailed description of item three. It outlines its unique selling points and qualities."
+    },
+    {
+      "id": 4,
+      "image": "https://images.yourstory.com/cs/1/b3cc3444ab5e11e88691f70342131e20/Whatissoftwareandtypesofsoftwarewithexamples1575272423828jpg?mode=crop&crop=faces&ar=16%3A9&format=auto&w=1920&q=75",
+      "name": "Software",
+      "paragraph": "This is a detailed description of item four. It highlights its design and functionality."
+    },
+    {
+      "id": 5,
+      "image": "https://www.bankrate.com/2022/07/25160346/Most-valuable-tech-companies.jpg?auto=webp&optimize=high&crop=16:9",
+      "name": "Company",
+      "paragraph": "This is a detailed description of item five. It emphasizes its reliability and performance."
+    },
+    {
+      "id": 6,
+      "image": "https://media.licdn.com/dms/image/v2/D4D12AQExd0s7g9AxpQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1703166341281?e=2147483647&v=beta&t=6FY186NBgvVVlmCtZ5O3pa6DhK-seHvfeKHaYQXwVsg",
+      "name": "Programming languages",
+      "paragraph": "This is a detailed description of item six. It explains its advantages and usage scenarios."
+    },
+    {
+      "id": 7,
+      "image": "https://ecdn.dhakatribune.net/contents/cache/images/640x359x1/uploads/media/2024/09/01/River_Opu-6457ccd8884e8dfeaf76951f8c182f4a.jpg?jadewits_media_id=27657",
+      "name": "River",
+      "paragraph": "This is a detailed description of item seven. It highlights its unique design and features."
+    },
+    {
+      "id": 8,
+      "image": "https://imageio.forbes.com/specials-images/imageserve/66a287879f9e730526b6f792/Tokyo-city-in-Japan/960x0.jpg?format=jpg&width=960",
+      "name": "Cities",
+      "paragraph": "This is a detailed description of item eight. It focuses on its affordability and efficiency."
+    },
+    {
+      "id": 9,
+      "image": "https://s7ap1.scene7.com/is/image/incredibleindia/The-Best-Adventure-Experiences-in-Manali1-hero?qlt=82&ts=1726731002736",
+      "name": "Tourist places",
+      "paragraph": "This is a detailed description of item nine. It mentions its durability and user-friendly features."
+    }
+  ]
+  
