@@ -1,7 +1,7 @@
 
 function SearchDetails({ search }) {
 
-    const { id, image, name, paragraph } = search
+    const { image, name, paragraph } = search
 
     return (
         <div>

@@ -32,11 +32,15 @@ function SearchItems() {
     return (
         <div className=" mb-20 ml-16 mr-16">
             <div>
-                <div>
-                    <p className=" text-black dataText text-center text-8xl">Search Items</p>
-                    <p className=" text-center text-xl text-gray-500 ">"In the age of information, ignorance is a choice."
-                        – Donny Miller</p>
+                <div className="px-4 md:px-8 lg:px-16">
+                    <p className="text-black dataText text-center text-4xl md:text-6xl lg:text-8xl">
+                        Search Items
+                    </p>
+                    <p className="text-center text-base md:text-lg lg:text-xl text-gray-500">
+                        "In the age of information, ignorance is a choice." – Donny Miller
+                    </p>
                 </div>
+
                 <div className=" flex justify-center">
                     <input
                         className=" mb-10 mt-10 h-[60px] w-[1200px] border-[1px] border-gray-300 rounded-xl p-3 "
