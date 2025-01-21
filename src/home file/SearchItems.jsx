@@ -3,7 +3,18 @@
 function SearchItems() {
 
     return (
-        <div>
+        <div className=" mt-20 mb-20 ml-16 mr-16">
+
+            <div>
+
+
+
+
+
+
+
+
+            </div>
 
         </div>
     )
