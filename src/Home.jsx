@@ -1,3 +1,4 @@
+import Collection from "./home file/Collection"
 import HomeBanner from "./home file/HomeBanner"
 import InfoCard from "./home file/InfoCard"
 import Logo from "./home file/Logo"
@@ -12,6 +13,7 @@ function Home() {
             <Logo></Logo>
             <SearchItems></SearchItems>
             <OurPrograms></OurPrograms>
+            <Collection></Collection>
         </div>
     )
 }
