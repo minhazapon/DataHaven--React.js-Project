@@ -1,18 +1,15 @@
 import InfoTabs from "./InfoTabs"
 
-
 function CourseC() {
-
-
     return (
         <div className="mt-20 mb-20 ml-28 mr-28">
 
-            <div className=" flex justify-between gap-24 ">
+            <div className=" flex  gap-24 ">
 
                 <div>
                     <p className=" text-5xl dataText">Course Category</p>
                     <div>
-                        <div class=" mt-10 relative w-[400px] h-[700px]  overflow-hidden rounded-lg shadow-lg">
+                        <div class=" mt-10 relative w-[400px] h-[855px]  overflow-hidden rounded-lg shadow-lg">
                             {/* <!-- Background image with gradient overlay --> */}
                             <div class="relative w-full h-full">
                                 <img

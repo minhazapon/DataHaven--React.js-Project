@@ -1,6 +1,9 @@
 
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 import 'react-tabs/style/react-tabs.css';
+import History from './tabs/History';
+import Science from './tabs/Science';
+import War from './tabs/War';
 
 
 
@@ -13,19 +16,19 @@ function InfoTabs() {
 
                 <Tabs>
                     <TabList>
-                        <Tab>Title 1</Tab>
-                        <Tab>Title 2</Tab>
-                        <Tab>Title 3</Tab>
+                        <Tab><p className=' btn bg-blue-900 text-white '>History</p></Tab>
+                        <Tab><p className=' btn bg-blue-900 text-white '>Science</p></Tab>
+                        <Tab><p className=' btn bg-blue-900 text-white '>War</p></Tab>
                     </TabList>
 
                     <TabPanel>
-                        <h2>Any content 1</h2>
+                        <History></History>
                     </TabPanel>
                     <TabPanel>
-                        <h2>Any content 2</h2>
+                        <Science></Science>
                     </TabPanel>
                     <TabPanel>
-                        <h2>Any content 3</h2>
+                        <War></War>
                     </TabPanel>
                 </Tabs>
 
