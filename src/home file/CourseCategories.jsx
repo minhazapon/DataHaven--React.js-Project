@@ -26,7 +26,7 @@ function CourseC() {
                         </div>
                     </div>
                 </div>
-
+                {/* ////////////// */}
                 <div>
                     <InfoTabs></InfoTabs>
                 </div>
