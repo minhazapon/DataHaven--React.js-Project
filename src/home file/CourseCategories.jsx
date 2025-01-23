@@ -1,12 +1,13 @@
+import InfoTabs from "./InfoTabs"
 
 
 function CourseC() {
 
 
     return (
-        <div className="mt-20 mb-20 ml-16 mr-16">
+        <div className="mt-20 mb-20 ml-28 mr-28">
 
-            <div>
+            <div className=" flex justify-between gap-24 ">
 
                 <div>
                     <p className=" text-5xl dataText">Course Category</p>
@@ -30,11 +31,9 @@ function CourseC() {
                 </div>
 
 
-
-
-
-
-
+                <div>
+                    <InfoTabs></InfoTabs>
+                </div>
 
             </div>
 
