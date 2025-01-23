@@ -11,9 +11,7 @@ function InfoTabs() {
 
     return (
         <div>
-
             <div>
-
                 <Tabs>
                     <TabList>
                         <Tab><p className=' btn bg-blue-900 text-white '>History</p></Tab>
@@ -31,9 +29,7 @@ function InfoTabs() {
                         <War></War>
                     </TabPanel>
                 </Tabs>
-
             </div>
-
         </div>
     )
 }
