@@ -1,4 +1,5 @@
 import Collection from "./home file/Collection"
+import CourseC from "./home file/CourseCategories"
 import HomeBanner from "./home file/HomeBanner"
 import InfoCard from "./home file/InfoCard"
 import Logo from "./home file/Logo"
@@ -14,6 +15,7 @@ function Home() {
             <SearchItems></SearchItems>
             <OurPrograms></OurPrograms>
             <Collection></Collection>
+            <CourseC></CourseC>
         </div>
     )
 }
