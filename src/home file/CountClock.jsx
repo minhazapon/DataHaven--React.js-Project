@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
 
-
 function Clock() {
 
     const countClock = () => {
