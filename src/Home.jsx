@@ -10,6 +10,7 @@ import OurPrograms from "./home file/OurPrograms"
 import SearchItems from "./home file/SearchItems"
 import Steps from "./home file/Steps"
 import Events from "./home file/evnt/Events"
+import ThreeD from "./home file/ThreeD"
 
 function Home() {
     return (
@@ -26,6 +27,7 @@ function Home() {
             <Instructor></Instructor>
             <CompanyLogo></CompanyLogo>
             <Events></Events>
+            <ThreeD></ThreeD>
         </div>
     )
 }
