@@ -9,6 +9,7 @@ import Logo from "./home file/Logo"
 import OurPrograms from "./home file/OurPrograms"
 import SearchItems from "./home file/SearchItems"
 import Steps from "./home file/Steps"
+import Events from "./home file/evnt/Events"
 
 function Home() {
     return (
@@ -24,6 +25,7 @@ function Home() {
             <Steps></Steps>
             <Instructor></Instructor>
             <CompanyLogo></CompanyLogo>
+            <Events></Events>
         </div>
     )
 }
