@@ -7,7 +7,7 @@ function CourseC() {
                 <div className="container mx-auto px-4">
                     <p className="text-3xl md:text-5xl font-bold dataText mb-8">Course Category</p>
                     <div className="flex justify-center">
-                        <div className="mt-10 relative w-full max-w-[400px] h-[600px] sm:h-[750px] md:h-[855px] overflow-hidden rounded-lg shadow-lg">
+                        <div className="mt-10 relative w-full max-w-[400px] h-[600px] sm:h-[750px] md:h-[825px] overflow-hidden rounded-lg shadow-lg">
                             {/* <!-- Background image with gradient overlay --> */}
                             <div className="relative w-full h-full">
                                 <img
