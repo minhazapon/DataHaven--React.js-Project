@@ -6,7 +6,7 @@ function SearchDetails({ search }) {
     return (
         <div>
 
-            <div className="card bg-base-100 h-[500px] w-96 shadow-xl">
+            <div className="card bg-base-100 h-[500px] w-96 border-[1px]">
                 <figure className="px-10 pt-10">
                     <img
                         src={image}

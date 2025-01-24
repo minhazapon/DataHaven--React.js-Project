@@ -11,7 +11,7 @@ function CourseC() {
                             {/* <!-- Background image with gradient overlay --> */}
                             <div className="relative w-full h-full">
                                 <img
-                                    src="https://d35v9chtr4gec.cloudfront.net/uteach/assets/feature-courses-1.webp"
+                                    src="https://www.wiley.com/learn/jossey-bass/images/what-every-teacher-should-know-about-the-science-of-learning.jpg"
                                     alt="Card Background"
                                     className="w-full h-full object-cover"
                                 />
@@ -19,7 +19,7 @@ function CourseC() {
                             </div>
                             {/* <!-- Title in the center --> */}
                             <div className="absolute inset-0 flex items-center justify-center">
-                                <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-white text-center font-serif">
+                                <h2 className="text-xl sm:text-2xl md:text-5xl font-bold text-white text-center font-mono">
                                     Trending Information
                                 </h2>
                             </div>

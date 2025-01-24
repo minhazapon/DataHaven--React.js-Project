@@ -1,9 +1,8 @@
 
-
-
 function Instructor() {
     return (
         <div className=" mt-20 mb-20 ml-20 mr-20">
+
             <div>
                 <div className=" flex-col md:flex-row lg:flex-row flex justify-between items-center">
                     <p className=" text-xl md:text-2xl font-serif ">Top Instructors</p>
@@ -52,6 +51,7 @@ function Instructor() {
                     </div>
                 </div>
             </div>
+
         </div>
     )
 }

@@ -1,4 +1,5 @@
 import Collection from "./home file/Collection"
+import CompanyLogo from "./home file/CompanyLogo"
 import CourseC from "./home file/CourseCategories"
 import Form from "./home file/Form"
 import HomeBanner from "./home file/HomeBanner"
@@ -22,6 +23,7 @@ function Home() {
             <Form></Form>
             <Steps></Steps>
             <Instructor></Instructor>
+            <CompanyLogo></CompanyLogo>
         </div>
     )
 }
