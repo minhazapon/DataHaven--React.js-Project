@@ -11,6 +11,7 @@ import SearchItems from "./home file/SearchItems"
 import Steps from "./home file/Steps"
 import Events from "./home file/evnt/Events"
 import ThreeD from "./home file/ThreeD"
+import Mobile from "./home file/Mobile"
 
 function Home() {
     return (
@@ -28,6 +29,7 @@ function Home() {
             <CompanyLogo></CompanyLogo>
             <Events></Events>
             <ThreeD></ThreeD>
+            <Mobile></Mobile>
         </div>
     )
 }

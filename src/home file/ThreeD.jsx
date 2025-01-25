@@ -50,7 +50,7 @@ const Slider = () => {
     };
 
     return (
-        <div className=" bg-black h-[600px] flex flex-col items-center justify-center text-center mb-20 p-5">
+        <div className=" bg-blue-950 h-[600px] flex flex-col items-center justify-center text-center mb-20 p-5">
             {/* 3D Canvas */}
             <Canvas className="w-full h-[400px]">
                 <ambientLight intensity={0.5} />
