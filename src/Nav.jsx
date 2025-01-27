@@ -1,6 +1,5 @@
 import { NavLink } from "react-router-dom"
 
-
 function Nav() {
 
     const NavZ = <>
