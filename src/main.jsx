@@ -10,6 +10,7 @@ import {
 import Root from './Root';
 import Home from './Home';
 import AddInformation from './AddInformation/AddInformation';
+import Service from './service file/Service';
 
 const router = createBrowserRouter([
   {
@@ -23,6 +24,10 @@ const router = createBrowserRouter([
       {
         path: "/add",
         element: <AddInformation></AddInformation>,
+      },
+      {
+        path: "/service",
+        element: <Service></Service>,
       },
     ],
   },
