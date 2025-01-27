@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom"
 
 function SearchDetails({ search }) {
 
@@ -17,7 +18,9 @@ function SearchDetails({ search }) {
                     <h2 className="card-title dataText text-4xl"> {name} </h2>
                     <p className=" text-gray-400 font-serif ">{paragraph}</p>
                     <div className="card-actions">
-                        <button className="btn bg-cyan-700 text-white ">Learn More</button>
+                        <Link to='/serviceCard'>
+                            <button className="btn bg-cyan-700 text-white ">Learn More</button>
+                        </Link>
                     </div>
                 </div>
             </div>

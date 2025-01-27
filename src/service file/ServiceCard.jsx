@@ -3,14 +3,12 @@
 function ServiceCard() {
     return (
         <div className=" mt-20 mb-20 ml-20 mr-20 ">
-
             <div>
 
                 <div className=" flex justify-center items-center gap-2 ">
                     <img className=" h-[60px] " src="https://cdn-icons-png.flaticon.com/128/9610/9610533.png" alt="" />
                     <p className=" text-center text-6xl font-sans font-bold text-black ">Our Information Service Category</p>
                 </div>
-
 
                 <div className=" mt-10 ">
                     <div>
