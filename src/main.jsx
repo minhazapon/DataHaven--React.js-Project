@@ -11,6 +11,7 @@ import Root from './Root';
 import Home from './Home';
 import AddInformation from './AddInformation/AddInformation';
 import Service from './service file/Service';
+import Contact from './contact file/Contact';
 
 const router = createBrowserRouter([
   {
@@ -32,6 +33,10 @@ const router = createBrowserRouter([
       {
         path: "/serviceCard",
         element: <Service></Service>,
+      },
+      {
+        path: "/contact",
+        element: <Contact></Contact>,
       },
     ],
   },
