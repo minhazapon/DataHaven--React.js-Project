@@ -1,6 +1,4 @@
 
-
-
 function ContactCard() {
     return (
         <div className=" mt-20 mb-20 ml-20 mr-20 ">
