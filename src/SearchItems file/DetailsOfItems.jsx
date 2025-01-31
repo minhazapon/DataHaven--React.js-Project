@@ -1,7 +1,7 @@
 
 function DetailsOfItems({ items }) {
 
-    const { id, image, name, title, details, location, countryName, placeName } = items
+    const { image, name, title, details, location, countryName, placeName } = items
 
     return (
         <div>
