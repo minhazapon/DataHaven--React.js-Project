@@ -1,8 +1,17 @@
 import { useLoaderData } from "react-router-dom"
 import DetailsOfItems from "./DetailsOfItems"
+import { useEffect, useState } from "react"
 
 function AllSearchItems() {
-    const loader = useLoaderData()
+
+    const [items, SetItems] = useState([])
+
+    useEffect(() => {
+        fetch('all.json')
+            .then(res => res.json())
+            .then(data => SetItems(data))
+    }, [])
+
     return (
         <div className=" mt-20 mb-20 ml-20 mr-20 ">
             <div>
@@ -10,10 +19,10 @@ function AllSearchItems() {
                     <img className="  h-[20px] md:h-[60px] " src="https://cdn-icons-png.flaticon.com/128/16207/16207051.png" alt="" />
                     <p className=" dataText  text-2xl md:text-6xl text-black ">Search Hub</p>
                 </div>
-                <div>
-                    <div>
+                <div className=" flex justify-center mt-10">
+                    <div className=" grid  md:grid-cols-2 gap-10 ">
                         {
-                            loader.map(loader => <DetailsOfItems loader={loader} ></DetailsOfItems>)
+                            items.map(items => <DetailsOfItems items={items}></DetailsOfItems>)
                         }
                     </div>
                 </div>

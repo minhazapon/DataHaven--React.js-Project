@@ -42,7 +42,7 @@ const router = createBrowserRouter([
       {
         path: "/allItems",
         element: <AllSearchItems></AllSearchItems>,
-        loader: () => fetch('all.json')
+        // loader: () => fetch('https://raw.githubusercontent.com/minhazapon/DataHaven--React.js-Project/refs/heads/main/public/all.json')
       },
     ],
   },
