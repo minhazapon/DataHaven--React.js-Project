@@ -90,7 +90,7 @@
       "placeName": "Arizona"
     },
     {
-        "image": "https://example.com/image1.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4GQuewxLfMh2olMxwVIVsJmu1qFf5Q4dwZw&s",
         "name": "Artificial Intelligence",
         "title": "Future of Smart Automation",
         "details": "Artificial Intelligence (AI) is transforming industries by enabling machines to mimic human intelligence. AI includes machine learning, natural language processing, and computer vision. It powers applications like virtual assistants, fraud detection, and autonomous vehicles. Companies use AI to improve decision-making and automate repetitive tasks. AI in healthcare helps diagnose diseases and suggest treatments. In business, AI enhances customer service with chatbots. Ethical concerns like data privacy and job displacement require careful management. AI continues to evolve, shaping the future of technology with innovations that make life more efficient and intelligent for businesses and individuals worldwide.",
@@ -99,7 +99,7 @@
         "placeName": "Technology Sector"
       },
       {
-        "image": "https://example.com/image2.jpg",
+        "image": "https://assets.bizclikmedia.net/1800/31939d8a53ebe7c8b5c3c552d81db151:4ebeab1890b29e0931eb3d6a76a1f8cb/gettyimages-1277731016-20-284-29-1-jpg.webp",
         "name": "Cloud Computing",
         "title": "Revolutionizing Data Storage",
         "details": "Cloud computing allows businesses and individuals to store and access data remotely over the internet instead of relying on physical servers. It offers scalability, security, and cost-efficiency. Popular cloud providers include AWS, Microsoft Azure, and Google Cloud. Cloud services include Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS). Organizations use cloud computing for data backups, web hosting, and software development. Cloud security remains a major concern, with companies investing in encryption and multi-factor authentication. As demand for digital services grows, cloud computing continues to shape the future of IT infrastructure.",
@@ -108,7 +108,7 @@
         "placeName": "Technology Sector"
       },
       {
-        "image": "https://example.com/image3.jpg",
+        "image": "https://imgproxy.divecdn.com/Sw487ygwxSdQb27s_HixyyiopicX-waj-bJt5H5TIqQ/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDIwMDM5OTAwLmpwZw==.webp",
         "name": "Cybersecurity",
         "title": "Protecting Digital Assets",
         "details": "Cybersecurity is essential for safeguarding sensitive data, systems, and networks from cyber threats like hacking, phishing, and ransomware attacks. Businesses and individuals invest in firewalls, antivirus software, and multi-factor authentication to secure their information. Governments enforce data protection laws to enhance security. Ethical hacking and penetration testing help identify vulnerabilities. Cybersecurity professionals are in high demand as cyber threats evolve. Artificial intelligence and machine learning are used to detect suspicious activities. With the rise of digital transactions and online services, cybersecurity remains a top priority to prevent financial losses and ensure data integrity.",
@@ -117,7 +117,7 @@
         "placeName": "Technology Sector"
       },
       {
-        "image": "https://example.com/image4.jpg",
+        "image": "https://bsmedia.business-standard.com/_media/bs/img/about-page/thumb/464_464/1611107541.jpg",
         "name": "Blockchain Technology",
         "title": "The Future of Secure Transactions",
         "details": "Blockchain is a decentralized digital ledger that records transactions securely and transparently. It powers cryptocurrencies like Bitcoin and Ethereum, eliminating the need for intermediaries. Blockchain enhances security, reducing fraud in financial transactions. Smart contracts automate agreements without third parties. Supply chain management benefits from blockchain’s transparency, ensuring authenticity in goods tracking. Governments explore blockchain for secure voting systems. Challenges include scalability and regulatory concerns. Despite this, blockchain technology continues to revolutionize finance, healthcare, and logistics, offering tamper-proof data storage and trust in digital transactions.",
@@ -126,7 +126,7 @@
         "placeName": "Technology Sector"
       },
       {
-        "image": "https://example.com/image5.jpg",
+        "image": "https://media.licdn.com/dms/image/v2/D4D12AQEcgU_Wy0kGMw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1673521544129?e=2147483647&v=beta&t=wNkNGpBO7vGbmi9OUGGGlVMGkP8I1M9W-Ov97GWXGZg",
         "name": "Internet of Things (IoT)",
         "title": "Connecting Smart Devices",
         "details": "The Internet of Things (IoT) connects everyday devices like smart homes, wearable gadgets, and industrial sensors to the internet for data exchange. IoT improves efficiency in healthcare, agriculture, and manufacturing. Smart thermostats adjust temperatures based on usage patterns, while IoT-enabled vehicles provide real-time diagnostics. Security concerns arise as connected devices increase cyber risks. Businesses adopt IoT for predictive maintenance and supply chain optimization. With 5G networks expanding, IoT will become more powerful, allowing seamless automation. The future of IoT promises smarter cities, improved healthcare monitoring, and better energy management for a more connected world.",
@@ -135,7 +135,7 @@
         "placeName": "Technology Sector"
       },
       {
-        "image": "https://example.com/image6.jpg",
+        "image": "https://media.licdn.com/dms/image/D4D12AQFTaDdHveScUQ/article-cover_image-shrink_720_1280/0/1685965315663?e=2147483647&v=beta&t=Q4tFkqW1qAR7K6qEihXsXPIJC3w6rUiRYG9mVYyDkLc",
         "name": "Big Data Analytics",
         "title": "Unlocking Insights from Data",
         "details": "Big Data Analytics helps businesses analyze massive datasets to uncover trends, patterns, and insights for better decision-making. Companies use big data for customer behavior analysis, fraud detection, and personalized marketing. Tools like Hadoop, Apache Spark, and AI-driven analytics platforms process large volumes of data efficiently. Healthcare uses big data for predicting disease outbreaks and optimizing treatments. Retailers enhance customer experience by analyzing purchase history. Data privacy and ethical concerns remain significant challenges. As technology advances, big data will continue shaping industries, making data-driven decision-making more accurate and valuable.",
@@ -144,7 +144,7 @@
         "placeName": "Technology Sector"
       },
       {
-        "image": "https://example.com/image7.jpg",
+        "image": "https://media.licdn.com/dms/image/D5612AQFzYlXRx2wSwQ/article-cover_image-shrink_600_2000/0/1699002264648?e=2147483647&v=beta&t=snyBQ9RPiaCEyacnuArgGJC8RqOLBKZ5aPO5ddd8tv8",
         "name": "5G Technology",
         "title": "Revolutionizing Connectivity",
         "details": "5G technology provides ultra-fast wireless connectivity with low latency, enhancing mobile communication, gaming, and IoT applications. It enables smart cities, autonomous vehicles, and remote surgeries with real-time data transmission. Telecom providers worldwide are expanding 5G networks, promising speeds up to 100 times faster than 4G. Businesses benefit from improved remote work and cloud-based solutions. Concerns include infrastructure costs and potential health risks. Governments regulate 5G spectrum allocation for smooth deployment. As adoption increases, 5G will drive innovations in AI, VR, and robotics, transforming industries with faster, more reliable internet access.",
@@ -153,7 +153,7 @@
         "placeName": "Technology Sector"
       },
       {
-        "image": "https://example.com/image8.jpg",
+        "image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Virtual_Reality_1.jpg",
         "name": "Virtual Reality (VR) & Augmented Reality (AR)",
         "title": "Enhancing Digital Experiences",
         "details": "Virtual Reality (VR) and Augmented Reality (AR) create immersive digital experiences for gaming, education, and healthcare. VR uses headsets to transport users to simulated environments, while AR overlays digital content onto the real world. Businesses use AR for virtual shopping, product visualization, and remote training. Healthcare professionals train using VR simulations. The entertainment industry leverages AR in mobile games like Pokémon GO. Hardware advancements improve AR/VR accessibility. Challenges include high costs and motion sickness. As technology improves, AR/VR will become integral to learning, entertainment, and professional training worldwide.",
@@ -162,7 +162,7 @@
         "placeName": "Technology Sector"
       },
       {
-        "image": "https://example.com/image9.jpg",
+        "image": "https://innovationatwork.ieee.org/wp-content/uploads/2019/09/bigstock-Edge-Computing-Modern-It-Techn-280957174_1024X684.png",
         "name": "Edge Computing",
         "title": "Faster Data Processing",
         "details": "Edge computing processes data closer to the source instead of relying on centralized cloud servers. This reduces latency, improving real-time applications like self-driving cars, industrial automation, and smart healthcare devices. Businesses use edge computing to enhance data security and operational efficiency. IoT devices benefit from faster response times, minimizing reliance on constant internet connections. Challenges include infrastructure costs and security risks. As industries generate more data, edge computing is becoming essential for rapid processing and decision-making, shaping the future of IT with efficient, localized data handling.",
@@ -171,7 +171,7 @@
         "placeName": "Technology Sector"
       },
       {
-        "image": "https://example.com/image10.jpg",
+        "image": "https://s.yimg.com/ny/api/res/1.2/A3dl78O_GbBiBQoiks9t3Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MA--/https://media.zenfs.com/en/motleyfool.com/df3f64ebf998dba4b17e929c506b4408",
         "name": "Quantum Computing",
         "title": "The Future of Supercomputing",
         "details": "Quantum computing leverages quantum mechanics to solve complex problems far beyond traditional computers' capabilities. Using qubits instead of binary bits, quantum computers process vast amounts of data simultaneously. Industries like cryptography, drug discovery, and climate modeling benefit from quantum computing’s speed. Companies like IBM, Google, and Microsoft invest heavily in quantum research. Challenges include stability and error correction. While commercial applications are still developing, quantum computing promises breakthroughs in AI, security, and scientific research. The future holds immense possibilities for solving problems previously deemed impossible with conventional computing.",
@@ -180,7 +180,7 @@
         "placeName": "Technology Sector"
       },
       {
-        "image": "https://example.com/image1.jpg",
+        "image": "https://www.nbc.com/sites/nbcblog/files/styles/scale_1280/public/2024/07/paris-2024-olympics-soccer.jpg",
         "name": "Football",
         "title": "The World's Most Popular Sport",
         "details": "Football, also known as soccer, is the most popular sport worldwide, played by millions across various leagues and international tournaments. The FIFA World Cup is the biggest global event, attracting billions of viewers. Major leagues include the English Premier League, La Liga, and Serie A. Football is known for its passionate fans, intense rivalries, and legendary players like Pelé, Messi, and Ronaldo. The game requires teamwork, strategy, and physical endurance. Clubs invest heavily in youth academies to nurture future stars. With its simple rules and universal appeal, football continues to dominate the world of sports.",
@@ -189,7 +189,7 @@
         "placeName": "Stadiums and Football Fields"
       },
       {
-        "image": "https://example.com/image2.jpg",
+        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/11/17/USAT/71618392007-cricket-promo-001.png?crop=2663,1997,x839,y3",
         "name": "Cricket",
         "title": "A Gentleman’s Game",
         "details": "Cricket is one of the most popular sports in countries like India, Australia, England, and Pakistan. The game is played in formats such as Test matches, One Day Internationals (ODIs), and T20 cricket. The ICC Cricket World Cup and T20 World Cup are major international tournaments. Cricket legends include Sachin Tendulkar, Virat Kohli, and Don Bradman. The Indian Premier League (IPL) is one of the most lucrative T20 leagues. The sport requires skill, patience, and teamwork. With advanced technology like DRS and Hawk-Eye, cricket has evolved, maintaining its charm and global following.",
@@ -198,7 +198,7 @@
         "placeName": "Cricket Grounds"
       },
       {
-        "image": "https://example.com/image3.jpg",
+        "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bmJhJTIwYmFza2V0YmFsbHxlbnwwfHwwfHx8MA%3D%3D",
         "name": "Basketball",
         "title": "Fast-Paced and High-Scoring",
         "details": "Basketball is a globally popular sport, especially in the United States, where the NBA dominates. Players like Michael Jordan, LeBron James, and Kobe Bryant have elevated the sport’s status. The game is played on a court with five players per team, aiming to score points by shooting the ball into the opponent’s hoop. It requires agility, speed, and teamwork. The FIBA World Cup and the Olympics showcase international talent. Street basketball is also widely played in urban areas. With the rise of youth programs and global leagues, basketball continues to expand its reach worldwide.",
@@ -207,7 +207,7 @@
         "placeName": "Basketball Courts"
       },
       {
-        "image": "https://example.com/image4.jpg",
+        "image": "https://longform.atptour.com/atp-tour-corporate/assets/YAHHNbL0BF/gettyimages-1479161206-4096x2731.jpg",
         "name": "Tennis",
         "title": "A Game of Precision and Stamina",
         "details": "Tennis is a widely followed sport with major tournaments like Wimbledon, the US Open, the French Open, and the Australian Open. Legendary players include Roger Federer, Serena Williams, Rafael Nadal, and Novak Djokovic. The game is played on different surfaces, including grass, clay, and hard courts. It requires endurance, strategy, and precision. Singles and doubles matches offer different dynamics. Technology like Hawk-Eye is used for accurate line calls. Tennis has a massive global following, with young talents emerging each year. Its mix of skill and athleticism makes it one of the most prestigious sports worldwide.",
@@ -216,7 +216,7 @@
         "placeName": "Tennis Courts"
       },
       {
-        "image": "https://example.com/image5.jpg",
+        "image": "https://www.euroschoolindia.com/wp-content/uploads/2023/05/world-athletics-day.jpg",
         "name": "Athletics",
         "title": "The Foundation of All Sports",
         "details": "Athletics includes track and field events such as running, jumping, and throwing. The Olympics is the biggest stage for athletics, where athletes compete in events like the 100m sprint, marathon, long jump, and javelin throw. Usain Bolt, Carl Lewis, and Mo Farah are some of the greatest names in athletics. The sport requires speed, endurance, strength, and technique. Training regimens are intense, focusing on discipline and consistency. Athletics is the backbone of many other sports, as it enhances overall fitness. With a long history, it remains one of the purest forms of competition.",
@@ -225,7 +225,7 @@
         "placeName": "Stadiums and Tracks"
       },
       {
-        "image": "https://example.com/image6.jpg",
+        "image": "https://media.formula1.com/image/upload/t_16by9South/f_auto/q_auto/v1709392049/trackside-images/2024/F1_Grand_Prix_of_Bahrain/2053149561.jpg",
         "name": "Formula 1",
         "title": "The Pinnacle of Motorsport",
         "details": "Formula 1 (F1) is the most prestigious motorsport, featuring high-speed races on circuits worldwide. Drivers like Lewis Hamilton, Michael Schumacher, and Ayrton Senna have left a lasting impact. Teams like Ferrari, Mercedes, and Red Bull compete for championships. F1 cars are engineering marvels, built for speed and aerodynamics. Races like the Monaco Grand Prix and the Italian Grand Prix are legendary. The sport requires precision driving, strategy, and teamwork. Safety advancements have improved the sport, making it more competitive. With global viewership, F1 continues to push the limits of motorsport innovation.",
@@ -234,7 +234,7 @@
         "placeName": "Racing Circuits"
       },
       {
-        "image": "https://example.com/image7.jpg",
+        "image": "https://dailynews.co.tz/wp-content/uploads/2023/04/boxing.webp",
         "name": "Boxing",
         "title": "The Sweet Science",
         "details": "Boxing is one of the oldest combat sports, requiring strength, endurance, and technique. Fighters like Muhammad Ali, Mike Tyson, and Floyd Mayweather have made history. The sport consists of different weight classes and governing bodies like the WBC, WBA, and IBF. Major fights attract millions of viewers, with championships highly coveted. Training involves rigorous conditioning, footwork, and defensive skills. The sport has evolved with safety measures and modern training methods. Boxing remains one of the most physically demanding and strategic sports, captivating fans with its blend of power and finesse.",
@@ -243,7 +243,7 @@
         "placeName": "Boxing Arenas"
       },
       {
-        "image": "https://example.com/image8.jpg",
+        "image": "https://smockgolf.com/wp-content/uploads/2015/04/tight.jpg",
         "name": "Golf",
         "title": "A Sport of Precision and Patience",
         "details": "Golf is a popular sport requiring skill, patience, and strategy. Played on vast courses, it involves hitting a ball into a series of holes in as few strokes as possible. The Masters, The Open Championship, and the Ryder Cup are major events. Golf legends include Tiger Woods, Jack Nicklaus, and Arnold Palmer. The sport emphasizes mental strength and precision. Equipment advancements have improved gameplay. Golf is enjoyed both professionally and recreationally. With growing accessibility, it continues to attract new players and remains one of the most respected sports worldwide.",
@@ -252,7 +252,7 @@
         "placeName": "Golf Courses"
       },
       {
-        "image": "https://example.com/image9.jpg",
+        "image": "https://tenniszon.com/cdn/shop/articles/shutterstock_760019368_1100x.jpg",
         "name": "Badminton",
         "title": "Fast-Paced Racket Sport",
         "details": "Badminton is a fast-paced racket sport played in singles or doubles. The game requires agility, speed, and precision. It is popular in Asia and Europe, with major tournaments like the All England Open and the Olympics. Players like Lin Dan, Lee Chong Wei, and PV Sindhu have dominated the sport. Badminton is played indoors, reducing weather impact. The shuttlecock moves at incredible speeds, requiring quick reflexes. With increasing participation, badminton is growing in popularity worldwide as an exciting and competitive sport.",
@@ -261,7 +261,7 @@
         "placeName": "Indoor Courts"
       },
       {
-        "image": "https://example.com/image10.jpg",
+        "image": "https://ai-analytics.wharton.upenn.edu/wp-content/uploads/2023/02/zsdfgsdfg-Edit-scaled.jpg",
         "name": "Wrestling",
         "title": "A Test of Strength and Technique",
         "details": "Wrestling is one of the oldest sports, dating back to ancient civilizations. It involves grappling, holds, and takedowns to defeat opponents. Olympic wrestling includes Greco-Roman and freestyle categories. WWE, a popular entertainment wrestling organization, blends sport and drama. Legends like Kurt Angle and The Great Gama have made history. Wrestling demands immense strength, endurance, and tactical skill. Training involves intense conditioning and technique mastery. It remains a respected combat sport with a global fanbase and competitive tournaments worldwide.",
@@ -270,7 +270,7 @@
         "placeName": "Wrestling Arenas"
       },
       {
-        "image": "https://example.com/image1.jpg",
+        "image": "https://phoenixnap.com/glossary/wp-content/uploads/2022/08/what-is-an-operating-system.jpg",
         "name": "Operating System",
         "title": "The Backbone of Computing",
         "details": "An operating system (OS) is the core software that manages hardware and software resources in a computer. Popular OSs include Windows, macOS, Linux, and Android. It provides a user-friendly interface and controls file management, process scheduling, and device communication. Modern OSs support multitasking, security features, and cloud integration. Open-source OSs like Linux allow customization and flexibility for developers. Mobile operating systems have revolutionized smartphones with seamless connectivity and app ecosystems. As technology advances, OSs continue evolving, offering better performance, security, and compatibility with emerging technologies like AI and IoT.",
@@ -279,7 +279,7 @@
         "placeName": "Technology Industry"
       },
       {
-        "image": "https://example.com/image2.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpvMpIyi4h_CN59zDC7iRYG4JR5ziyhdherg&s",
         "name": "Database Management System",
         "title": "Organizing and Storing Data Efficiently",
         "details": "A Database Management System (DBMS) is software used to store, manage, and retrieve data efficiently. Popular DBMSs include MySQL, PostgreSQL, Oracle, and MongoDB. They provide structured data storage, ensuring consistency and security. SQL-based databases use structured queries, while NoSQL databases handle unstructured data. DBMSs support multi-user access, backups, and disaster recovery. Businesses rely on databases for customer management, analytics, and enterprise applications. Cloud-based solutions like AWS RDS and Google Firestore enhance scalability. As data grows, modern DBMSs integrate AI-driven optimizations, ensuring faster and smarter data processing.",
@@ -288,7 +288,7 @@
         "placeName": "Software Industry"
       },
       {
-        "image": "https://example.com/image3.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRk__jbY_OQAseU0AkDimMArPP1_fyN2jN7Q&s",
         "name": "Cybersecurity Software",
         "title": "Protecting Digital Assets",
         "details": "Cybersecurity software safeguards systems and networks from cyber threats like malware, phishing, and data breaches. Popular solutions include antivirus programs, firewalls, and encryption tools. Companies use endpoint security, intrusion detection, and multi-factor authentication for enhanced protection. AI-driven security software detects and prevents real-time cyber threats. Businesses and individuals prioritize cybersecurity to prevent identity theft and financial fraud. Governments enforce strict cybersecurity policies to protect national infrastructure. As cyber threats evolve, security software continuously improves, providing stronger protection against sophisticated hacking techniques and ransomware attacks.",
@@ -297,7 +297,7 @@
         "placeName": "IT Security Sector"
       },
       {
-        "image": "https://example.com/image4.jpg",
+        "image": "https://nascenia.com/wp-content/uploads/2017/09/picture_18.jpg",
         "name": "Cloud Computing Software",
         "title": "Revolutionizing IT Infrastructure",
         "details": "Cloud computing software enables businesses and individuals to store and access data remotely over the internet. Leading platforms include AWS, Microsoft Azure, and Google Cloud. Cloud services include Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS). Companies use cloud computing for scalability, cost efficiency, and remote collaboration. Security and data privacy remain top concerns. Cloud-based AI and machine learning solutions power modern applications. With growing digital transformation, cloud computing software continues to revolutionize IT infrastructure across industries worldwide.",
@@ -306,7 +306,7 @@
         "placeName": "Cloud Industry"
       },
       {
-        "image": "https://example.com/image5.jpg",
+        "image": "https://cdn.open-pr.com/W/8/W807498128_g.jpg",
         "name": "Enterprise Resource Planning (ERP) Software",
         "title": "Optimizing Business Operations",
         "details": "Enterprise Resource Planning (ERP) software integrates business processes like finance, human resources, and supply chain management into a unified platform. Popular ERP solutions include SAP, Oracle ERP, and Microsoft Dynamics. Businesses use ERP to streamline operations, improve efficiency, and enhance decision-making. Cloud-based ERP systems offer scalability and remote access. AI-powered analytics help businesses gain insights from operational data. ERP software is essential for large enterprises and growing businesses, enabling seamless collaboration across departments. With digital transformation, ERP solutions continue to evolve, offering automation and advanced analytics capabilities.",
@@ -315,7 +315,7 @@
         "placeName": "Business Sector"
       },
       {
-        "image": "https://example.com/image6.jpg",
+        "image": "https://knowledge.hubspot.com/hubfs/Best-Free-Graphic-Design-Software-23-20240614-9288743.webp",
         "name": "Graphic Design Software",
         "title": "Creating Stunning Visuals",
         "details": "Graphic design software is used for creating visual content, including images, illustrations, and animations. Popular tools include Adobe Photoshop, Illustrator, and CorelDRAW. These programs offer advanced editing, vector design, and typography features. Designers use them for branding, marketing, and digital art creation. Open-source alternatives like GIMP and Inkscape provide powerful functionalities for free. AI-driven design tools automate repetitive tasks and enhance creativity. With the rise of digital content creation, graphic design software remains essential for professionals and businesses worldwide, enabling visually appealing designs across multiple platforms.",
@@ -324,7 +324,7 @@
         "placeName": "Creative Industry"
       },
       {
-        "image": "https://example.com/image7.jpg",
+        "image": "https://images.ctfassets.net/lzny33ho1g45/6bqSDOwd1BDpHxE4bBRnLU/610a9f51b788e974c1fa419dcbf624b7/image3.jpeg",
         "name": "Video Editing Software",
         "title": "Bringing Stories to Life",
         "details": "Video editing software enables users to create and edit professional-quality videos. Popular tools include Adobe Premiere Pro, Final Cut Pro, and DaVinci Resolve. These programs offer features like timeline editing, visual effects, and color grading. Content creators, filmmakers, and businesses use video editing software for marketing, social media, and entertainment. AI-powered features like auto-editing and motion tracking enhance productivity. Cloud-based video editing tools allow collaboration from anywhere. As video content consumption grows, advanced editing software remains crucial for creating engaging visual storytelling across digital platforms.",
@@ -333,7 +333,7 @@
         "placeName": "Media and Film Industry"
       },
       {
-        "image": "https://example.com/image8.jpg",
+        "image": "https://www.analyticssteps.com/backend/media/thumbnail/2419395/9525800_1640581900_Top%20Game%20Development%20SoftwaresArtboard%201.jpg",
         "name": "Game Development Software",
         "title": "Powering Interactive Experiences",
         "details": "Game development software provides tools to create interactive and immersive games. Popular engines include Unity, Unreal Engine, and Godot. These platforms offer 2D and 3D rendering, physics simulations, and AI integration. Developers use programming languages like C++, C#, and Python to build games. Indie developers and large studios leverage these tools to create engaging gameplay. Virtual Reality (VR) and Augmented Reality (AR) are expanding game design possibilities. With the gaming industry continuously evolving, development software plays a crucial role in shaping the future of interactive entertainment.",
@@ -342,7 +342,7 @@
         "placeName": "Gaming Industry"
       },
       {
-        "image": "https://example.com/image9.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1gAVxErP8fVzei86oFjMMuIPc3dZa07d6Fw&s",
         "name": "Artificial Intelligence Software",
         "title": "Shaping the Future of Automation",
         "details": "Artificial Intelligence (AI) software uses machine learning and deep learning algorithms to automate tasks and make intelligent decisions. AI-driven applications include chatbots, image recognition, and natural language processing (NLP). Leading AI frameworks include TensorFlow, PyTorch, and OpenAI's GPT models. Businesses use AI for predictive analytics, automation, and customer service improvements. Ethical concerns include bias, privacy, and job displacement. AI software is revolutionizing industries like healthcare, finance, and robotics. As AI technology advances, its integration into everyday applications continues to grow, enhancing productivity and decision-making across sectors.",
@@ -351,7 +351,7 @@
         "placeName": "Technology Industry"
       },
       {
-        "image": "https://example.com/image10.jpg",
+        "image": "https://kantata.marketing/wp-content/uploads/2022/07/man-on-tablet-with-graphs-and-numbers-floating-above-the-tablet.jpg",
         "name": "Project Management Software",
         "title": "Enhancing Team Collaboration",
         "details": "Project management software helps teams plan, track, and manage projects efficiently. Popular tools include Trello, Asana, Jira, and Monday.com. These platforms provide task management, timeline tracking, and workflow automation. Businesses use project management software to improve productivity, streamline communication, and ensure project deadlines are met. AI-powered features assist in resource allocation and risk assessment. Cloud-based solutions enable remote collaboration. With businesses shifting to hybrid work models, project management tools have become essential for ensuring seamless teamwork and efficient project execution.",
@@ -360,7 +360,7 @@
         "placeName": "Corporate Sector"
       },
       {
-        "image": "https://example.com/image1.jpg",
+        "image": "https://www.shutterstock.com/image-illustration/pune-india-february-19-2024-600nw-2427127541.jpg",
         "name": "Apple Inc.",
         "title": "Innovating Consumer Technology",
         "details": "Apple Inc. is a global technology company known for its innovative products like the iPhone, Mac, and iPad. Founded in 1976 by Steve Jobs, Steve Wozniak, and Ronald Wayne, Apple has revolutionized personal computing and mobile devices. It also offers software services such as iCloud, iOS, and macOS. The App Store provides a vast ecosystem for developers. Apple's strong brand loyalty and premium quality make it one of the most valuable companies. With a focus on sustainability and innovation, Apple continues to shape the future of technology.",
@@ -369,7 +369,7 @@
         "placeName": "Apple Park"
       },
       {
-        "image": "https://example.com/image2.jpg",
+        "image": "https://www.investmentmonitor.ai/wp-content/uploads/sites/7/2021/12/microsoft-headquarters-fdi.jpg",
         "name": "Microsoft Corporation",
         "title": "Empowering Digital Transformation",
         "details": "Microsoft Corporation is a leading software and technology company founded by Bill Gates and Paul Allen in 1975. It is known for Windows OS, Microsoft Office, Azure cloud services, and gaming products like Xbox. Microsoft has expanded into AI, cybersecurity, and enterprise solutions. Its acquisitions, including LinkedIn and GitHub, strengthen its market position. The company invests heavily in cloud computing, AI research, and productivity tools. Microsoft’s commitment to innovation and digital transformation continues to drive its growth, making it a global leader in technology solutions.",
@@ -378,7 +378,7 @@
         "placeName": "Microsoft Campus"
       },
       {
-        "image": "https://example.com/image3.jpg",
+        "image": "https://www.investopedia.com/thmb/MSdkb9W7mv3ak-2FfGpzvN3YaJg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-12446899391-e57beafa9b684e5f8e174f704bb7357f.jpg",
         "name": "Amazon",
         "title": "The E-Commerce Giant",
         "details": "Amazon is a multinational company specializing in e-commerce, cloud computing, and digital streaming. Founded by Jeff Bezos in 1994, Amazon started as an online bookstore and grew into the world's largest online retailer. Its cloud division, Amazon Web Services (AWS), is a market leader. The company also owns Whole Foods, Twitch, and Prime Video. With a focus on logistics, AI, and automation, Amazon continues to dominate the global retail and technology industries. Its innovation in AI, such as Alexa, enhances customer experience and operational efficiency.",
@@ -387,7 +387,7 @@
         "placeName": "Amazon HQ"
       },
       {
-        "image": "https://example.com/image4.jpg",
+        "image": "https://cdn.britannica.com/17/254817-050-F2FF48F6/Google-Alphabet-Inc-photo-illustration.jpg",
         "name": "Google (Alphabet Inc.)",
         "title": "The Search Engine Pioneer",
         "details": "Google, a subsidiary of Alphabet Inc., is a global leader in internet services and AI technologies. Founded in 1998 by Larry Page and Sergey Brin, Google revolutionized search engines. Its products include Android, Chrome, Gmail, YouTube, and Google Cloud. Google leads in AI, with projects like DeepMind and Google Assistant. The company generates revenue primarily through digital advertising via Google Ads. With continuous investments in AI, quantum computing, and sustainability, Google remains at the forefront of global innovation and technology expansion.",
@@ -396,7 +396,7 @@
         "placeName": "Googleplex"
       },
       {
-        "image": "https://example.com/image5.jpg",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJ6PuEYvOVoY/v1/-1x-1.webp",
         "name": "Tesla Inc.",
         "title": "Revolutionizing Electric Vehicles",
         "details": "Tesla Inc., founded by Elon Musk and others in 2003, is a pioneer in electric vehicles (EVs) and sustainable energy solutions. Tesla’s lineup includes Model S, Model 3, Model X, and Model Y, along with the Cybertruck and Roadster. The company leads in battery technology and autonomous driving (Autopilot). Tesla’s energy division offers solar panels and Powerwall solutions. Its Gigafactories produce EV components at scale. Tesla continues to disrupt the automotive industry with innovation in AI, battery efficiency, and self-driving technology.",
@@ -405,7 +405,7 @@
         "placeName": "Tesla Gigafactory"
       },
       {
-        "image": "https://example.com/image6.jpg",
+        "image": "https://about.fb.com/wp-content/uploads/2021/10/Meta-Planets-img-16x9-1.jpg?w=1200",
         "name": "Facebook (Meta Platforms)",
         "title": "Building the Future of Social Media",
         "details": "Meta Platforms, formerly Facebook, is a global technology company specializing in social media, virtual reality, and AI. Founded by Mark Zuckerberg in 2004, Meta owns Facebook, Instagram, WhatsApp, and Oculus. It is a leader in the metaverse and AR/VR technologies. Meta generates revenue primarily through digital advertising. The company invests in AI-driven content moderation and data security. With a vision for the future of digital interaction, Meta focuses on immersive experiences, expanding its influence in social networking, digital marketing, and online communities.",
@@ -414,7 +414,7 @@
         "placeName": "Meta Headquarters"
       },
       {
-        "image": "https://example.com/image7.jpg",
+        "image": "https://cdn.daily-sun.com/public/news_images/2017/04/08/Samsung-HQ-daily-sun.jpg",
         "name": "Samsung Electronics",
         "title": "Leading Innovation in Consumer Electronics",
         "details": "Samsung Electronics, founded in 1969, is a global leader in consumer electronics, semiconductors, and telecommunications. The company manufactures smartphones, TVs, home appliances, and chipsets. Samsung’s Galaxy series competes with Apple in the mobile market. It is also a key supplier of OLED displays and memory chips. Samsung invests heavily in AI, 5G, and semiconductor research. With a strong presence in multiple industries, Samsung continues to drive technological advancements, maintaining its position as one of the most influential companies in the global market.",
@@ -423,7 +423,7 @@
         "placeName": "Samsung Digital City"
       },
       {
-        "image": "https://example.com/image8.jpg",
+        "image": "https://erp.today/wp-content/uploads/2022/05/ibm_0.jpeg",
         "name": "IBM",
         "title": "Pioneering Enterprise Technology",
         "details": "IBM (International Business Machines) is a global technology company specializing in AI, cloud computing, and enterprise solutions. Founded in 1911, IBM has a long history of innovation, including the development of mainframes and quantum computing. The company offers services in AI, cybersecurity, and IT consulting. IBM Watson leads in AI-driven business intelligence. With a strong focus on hybrid cloud solutions and blockchain technology, IBM continues to support businesses worldwide with cutting-edge digital transformation solutions and enterprise-level IT services.",
@@ -432,7 +432,7 @@
         "placeName": "IBM Headquarters"
       },
       {
-        "image": "https://example.com/image9.jpg",
+        "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2022/08/04/222569.jpg",
         "name": "Toyota Motor Corporation",
         "title": "Driving Innovation in Mobility",
         "details": "Toyota, founded in 1937, is one of the largest automobile manufacturers globally. It is known for reliable and fuel-efficient vehicles like the Corolla, Camry, and Prius. Toyota leads in hybrid and hydrogen fuel cell technology with models like the Mirai. The company invests in autonomous driving, AI, and electric mobility. Toyota Production System (TPS) revolutionized manufacturing efficiency. With sustainability as a core focus, Toyota continues to innovate in mobility solutions, making advancements in smart transportation and eco-friendly vehicle technology.",
@@ -441,7 +441,7 @@
         "placeName": "Toyota Headquarters"
       },
       {
-        "image": "https://example.com/image10.jpg",
+        "image": "https://i.ytimg.com/vi/ZMak63mHq5Y/maxresdefault.jpg",
         "name": "Netflix",
         "title": "Transforming the Entertainment Industry",
         "details": "Netflix is a global streaming platform offering movies, TV shows, and original content. Founded in 1997 as a DVD rental service, it transitioned to streaming in 2007. Netflix produces hit series like Stranger Things, The Witcher, and Squid Game. It invests heavily in AI-powered recommendations and content localization. The company competes with Disney+, Amazon Prime Video, and HBO Max. With a subscriber base in over 190 countries, Netflix continues to redefine the entertainment industry through original storytelling, innovation, and global content distribution.",
@@ -450,7 +450,7 @@
         "placeName": "Netflix Headquarters"
       },
       {
-        "image": "https://example.com/image1.jpg",
+        "image": "https://abctrainings.in/media/thumbnails/Python-01_2_1.png",
         "name": "Python",
         "title": "The Versatile Programming Language",
         "details": "Python is a high-level, interpreted programming language known for its simplicity and readability. Developed by Guido van Rossum in 1991, it is widely used in web development, data science, AI, and automation. Python supports multiple programming paradigms, including procedural, object-oriented, and functional programming. Popular frameworks like Django and Flask simplify web development, while TensorFlow and PyTorch enable machine learning applications. Its extensive libraries and active community make it a top choice for beginners and professionals alike. Python's versatility and ease of use continue to drive its popularity across industries.",
@@ -459,7 +459,7 @@
         "placeName": "Technology Industry"
       },
       {
-        "image": "https://example.com/image2.jpg",
+        "image": "https://files.ably.io/ghost/prod/2023/12/choosing-the-best-javascript-frameworks-for-your-next-project.png",
         "name": "JavaScript",
         "title": "The Language of the Web",
         "details": "JavaScript is a powerful scripting language primarily used for web development. Created by Brendan Eich in 1995, it enables interactive web pages and dynamic content. JavaScript runs on all modern browsers and supports front-end frameworks like React, Angular, and Vue.js. It is also used on the backend with Node.js. With the rise of full-stack development, JavaScript has become essential for building modern applications. Its asynchronous nature, event-driven architecture, and extensive ecosystem make it one of the most popular programming languages in the world.",
@@ -468,7 +468,7 @@
         "placeName": "Web Development"
       },
       {
-        "image": "https://example.com/image3.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz4QdAgxIlAvNlLxETyOaxNc8qI6F45_ZAVQ&s",
         "name": "Java",
         "title": "Write Once, Run Anywhere",
         "details": "Java is a widely-used, object-oriented programming language designed for cross-platform compatibility. Developed by Sun Microsystems in 1995, Java powers enterprise applications, mobile development, and cloud computing. Its 'Write Once, Run Anywhere' principle allows applications to run on different platforms without modification. Java is commonly used in Android app development, web applications, and large-scale systems. Popular frameworks like Spring and Hibernate enhance productivity. With strong security features, performance optimization, and community support, Java remains a dominant language in the software industry.",
@@ -477,7 +477,7 @@
         "placeName": "Software Industry"
       },
       {
-        "image": "https://example.com/image4.jpg",
+        "image": "https://media.licdn.com/dms/image/D5612AQGbnhsdREIvJg/article-cover_image-shrink_720_1280/0/1717078192231?e=2147483647&v=beta&t=XovGHrOcu3j4JST3dxyl8lmCFiuawhn4za952oQNn_Q",
         "name": "C++",
         "title": "The Powerhouse of Performance",
         "details": "C++ is a high-performance, object-oriented programming language developed by Bjarne Stroustrup in 1985. It is widely used in system programming, game development, embedded systems, and financial applications. C++ provides direct memory manipulation, making it efficient for real-time applications. Game engines like Unreal Engine and software like Adobe Photoshop rely on C++. With features like templates, polymorphism, and multithreading, C++ offers a balance between control and abstraction. Its speed and efficiency make it ideal for developing high-performance applications in various industries.",
@@ -486,7 +486,7 @@
         "placeName": "Game Development"
       },
       {
-        "image": "https://example.com/image5.jpg",
+        "image": "https://jelvix.com/wp-content/uploads/2021/01/c-uses.png",
         "name": "C#",
         "title": "Microsoft's Flagship Language",
         "details": "C# (C-Sharp) is a modern, object-oriented programming language developed by Microsoft in 2000. It is widely used for Windows applications, game development, and enterprise software. C# is the primary language for Unity, one of the most popular game engines. It integrates seamlessly with the .NET framework, allowing developers to build web, desktop, and cloud applications efficiently. Features like garbage collection, LINQ, and asynchronous programming enhance productivity. C# continues to evolve with updates in .NET Core, making it a robust choice for modern software development.",
@@ -495,7 +495,7 @@
         "placeName": "Microsoft Ecosystem"
       },
       {
-        "image": "https://example.com/image6.jpg",
+        "image": "https://wellcreator.com/blog/wp-content/uploads/2024/03/php-wellcreator1.png",
         "name": "PHP",
         "title": "The Server-Side Scripting Language",
         "details": "PHP is a widely-used server-side scripting language designed for web development. Created by Rasmus Lerdorf in 1994, PHP powers over 75% of websites, including WordPress, Facebook, and Wikipedia. It is known for its simplicity, flexibility, and extensive support for databases like MySQL and PostgreSQL. PHP frameworks like Laravel and CodeIgniter streamline web application development. Despite competition from newer languages, PHP remains a dominant force in backend development due to its ease of use, performance, and strong community support.",
@@ -504,7 +504,7 @@
         "placeName": "Web Development"
       },
       {
-        "image": "https://example.com/image7.jpg",
+        "image": "https://developer.apple.com/swift/images/swift-og.png",
         "name": "Swift",
         "title": "Apple's Fast and Safe Language",
         "details": "Swift is a modern programming language developed by Apple in 2014 for iOS, macOS, watchOS, and tvOS development. It is designed to be fast, safe, and expressive. Swift replaces Objective-C for Apple app development and offers features like automatic memory management and optionals. Its syntax is concise and beginner-friendly, making it ideal for new developers. With SwiftUI, developers can create visually appealing apps efficiently. Swift continues to evolve, solidifying its position as the preferred language for Apple's software ecosystem.",
@@ -513,7 +513,7 @@
         "placeName": "Apple Ecosystem"
       },
       {
-        "image": "https://example.com/image8.jpg",
+        "image": "https://pbs.twimg.com/profile_images/1142154201444823041/O6AczwfV_400x400.png",
         "name": "Go",
         "title": "The Language of Scalable Systems",
         "details": "Go, also known as Golang, is a statically typed, compiled language developed by Google in 2009. It is designed for high-performance, scalable applications, particularly in cloud computing and microservices. Go’s simplicity, concurrency model, and garbage collection make it ideal for distributed systems. Popular projects like Docker and Kubernetes are built with Go. It offers fast execution, easy deployment, and robust standard libraries. As cloud computing and DevOps gain traction, Go continues to grow in popularity among developers and enterprises.",
@@ -522,7 +522,7 @@
         "placeName": "Cloud Computing"
       },
       {
-        "image": "https://example.com/image9.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png",
         "name": "Rust",
         "title": "Safe and Efficient Systems Programming",
         "details": "Rust is a modern systems programming language designed for safety, concurrency, and performance. Developed by Mozilla in 2010, Rust eliminates memory-related bugs common in C and C++ through ownership and borrowing mechanisms. It is widely used in systems programming, web assembly, and blockchain technology. Companies like Microsoft and Amazon use Rust for its reliability and security. Rust's growing community and powerful features make it a strong choice for developing high-performance and memory-safe applications without the risks of traditional low-level languages.",
@@ -531,7 +531,7 @@
         "placeName": "Systems Programming"
       },
       {
-        "image": "https://example.com/image10.jpg",
+        "image": "https://www.jrebel.com/sites/default/files/styles/social_preview_image/public/image/2021-01/what%20is%20kotlin%20banner%20image.png?itok=5fXxsx8f",
         "name": "Kotlin",
         "title": "The Future of Android Development",
         "details": "Kotlin is a modern, statically typed programming language officially supported for Android development by Google. Developed by JetBrains in 2011, Kotlin offers concise syntax, null safety, and full interoperability with Java. It is widely used for mobile, web, and backend development. Kotlin's expressive features, like coroutines and extension functions, enhance developer productivity. With strong support from Google and a growing ecosystem, Kotlin is becoming the preferred language for building robust, scalable, and efficient Android applications worldwide.",
@@ -540,7 +540,7 @@
         "placeName": "Android Development"
       },
       {
-        "image": "https://example.com/image1.jpg",
+        "image": "https://egyptaccessibletravel.com/wp-content/uploads/2022/09/the-nile-river-in-africa.jpg",
         "name": "Nile River",
         "title": "The Longest River in the World",
         "details": "The Nile River, stretching about 6,650 km, is the longest river in the world. Flowing through northeastern Africa, it passes through 11 countries, including Egypt and Sudan. The river has played a crucial role in the development of ancient Egyptian civilization, providing water, transportation, and fertile land for agriculture. The Nile has two major tributaries: the White Nile and the Blue Nile. It remains an essential resource for millions of people today, supporting agriculture, hydroelectric power, and biodiversity in the region.",
@@ -549,7 +549,7 @@
         "placeName": "Nile Basin"
       },
       {
-        "image": "https://example.com/image2.jpg",
+        "image": "https://cdn.mos.cms.futurecdn.net/vjEasRVMEFbfdgAEPkVpu.jpg",
         "name": "Amazon River",
         "title": "The Largest River by Discharge",
         "details": "The Amazon River is the second-longest river in the world, stretching about 6,575 km. It flows through South America, primarily in Brazil, Peru, and Colombia. The Amazon River has the highest discharge volume of any river, carrying more water than the next seven largest rivers combined. It is home to diverse wildlife, including piranhas, pink river dolphins, and anacondas. The Amazon rainforest, nourished by the river, is crucial for global oxygen production and climate regulation, making it one of the most vital ecosystems on Earth.",
@@ -558,7 +558,7 @@
         "placeName": "Amazon Basin"
       },
       {
-        "image": "https://example.com/image3.jpg",
+        "image": "https://www.worldatlas.com/upload/e6/ce/bd/shutterstock-105290345.jpg",
         "name": "Mississippi River",
         "title": "The Lifeline of North America",
         "details": "The Mississippi River, about 3,730 km long, is the second-longest river in North America. It originates in Minnesota and flows southward into the Gulf of Mexico. The river has been essential for transportation, trade, and agriculture for centuries. It played a key role in the expansion of the United States. The Mississippi River basin drains 31 U.S. states and parts of Canada. Its ecosystem supports various species, including alligators and paddlefish. Today, it remains a vital waterway for commerce and environmental conservation.",
@@ -567,7 +567,7 @@
         "placeName": "Mississippi Basin"
       },
       {
-        "image": "https://example.com/image4.jpg",
+        "image": "https://cdn.mos.cms.futurecdn.net/kaDuczYYRTQVm7ko9VLuPA-1000-80.jpg",
         "name": "Yangtze River",
         "title": "The Longest River in Asia",
         "details": "The Yangtze River, at 6,300 km, is the longest river in Asia and the third-longest in the world. It originates from the Tibetan Plateau and flows through China before emptying into the East China Sea. The Yangtze is a major economic and cultural artery, supporting agriculture, trade, and hydropower. The Three Gorges Dam, the world's largest hydroelectric project, is built on this river. The Yangtze River basin is home to unique wildlife, including the endangered Yangtze River dolphin and giant salamander.",
@@ -576,7 +576,7 @@
         "placeName": "Yangtze Basin"
       },
       {
-        "image": "https://example.com/image5.jpg",
+        "image": "https://www.worldatlas.com/r/w768/upload/f9/f0/54/shutterstock-2930691021.jpg",
         "name": "Ganges River",
         "title": "The Sacred River of India",
         "details": "The Ganges River, approximately 2,525 km long, originates in the Himalayas and flows through India and Bangladesh. It is considered sacred by Hindus and is a major cultural and religious symbol. Millions of people depend on the Ganges for drinking water, agriculture, and fishing. However, pollution and overuse threaten its ecosystem. Efforts are being made to clean and preserve the river. The Ganges basin supports diverse wildlife, including the endangered Ganges river dolphin and numerous fish species.",
@@ -585,7 +585,7 @@
         "placeName": "Ganges Basin"
       },
       {
-        "image": "https://example.com/image6.jpg",
+        "image": "https://cdn.britannica.com/54/6954-050-A7871925/Central-Budapest-Danube-River-bank-Parliament-Building.jpg",
         "name": "Danube River",
         "title": "Europe’s Second-Longest River",
         "details": "The Danube River, about 2,850 km long, flows through Central and Eastern Europe, passing through 10 countries. It originates in Germany’s Black Forest and empties into the Black Sea. The river has historically been a vital trade route and cultural landmark. It connects many major cities, including Vienna, Budapest, and Belgrade. The Danube supports rich biodiversity, with over 300 bird species and numerous fish species. Conservation efforts aim to protect its delicate ecosystem from pollution and industrialization.",
@@ -594,7 +594,7 @@
         "placeName": "Danube Basin"
       },
       {
-        "image": "https://example.com/image7.jpg",
+        "image": "https://static.toiimg.com/thumb/54736287/Mekong-River.jpg?width=1200&height=900",
         "name": "Mekong River",
         "title": "The Lifeblood of Southeast Asia",
         "details": "The Mekong River, approximately 4,350 km long, flows through six countries in Southeast Asia, including China, Laos, Thailand, Cambodia, and Vietnam. It supports millions of people who rely on it for fishing, agriculture, and transportation. The Mekong Delta is one of the world's most productive rice-growing regions. However, dam construction and climate change threaten its ecosystem. The river is home to many rare species, including the giant freshwater stingray and Irrawaddy dolphin, making conservation efforts crucial for its survival.",
@@ -603,7 +603,7 @@
         "placeName": "Mekong Basin"
       },
       {
-        "image": "https://example.com/image8.jpg",
+        "image": "https://cdn.britannica.com/83/151983-050-69C4CE77/Volga-River-city-Ulyanovsk-Russia.jpg",
         "name": "Volga River",
         "title": "Europe’s Longest River",
         "details": "The Volga River, at about 3,530 km, is the longest river in Europe. It flows entirely within Russia, providing water for cities like Moscow and Volgograd. The Volga has significant cultural and historical importance in Russian history. It is a crucial waterway for trade and transportation. The river supports a rich ecosystem, with sturgeon and other fish species. However, industrial pollution and damming pose environmental challenges. Conservation projects aim to restore its natural flow and maintain its biodiversity.",
@@ -612,7 +612,7 @@
         "placeName": "Volga Basin"
       },
       {
-        "image": "https://example.com/image9.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJipxUNq1EqNokZZnCIfbIHXMZ0xoKO9IRNQ&s",
         "name": "Congo River",
         "title": "The Deepest River in the World",
         "details": "The Congo River, approximately 4,700 km long, is the second-longest river in Africa after the Nile. It is also the world's deepest river, reaching depths of over 220 meters. The river flows through the Congo Basin, one of the most biodiverse regions on Earth. It supports dense rainforests, unique wildlife, and millions of people. The Congo River plays a key role in transportation and hydroelectric power generation. However, deforestation and pollution threaten its ecosystem, prompting conservation efforts.",
@@ -621,7 +621,7 @@
         "placeName": "Congo Basin"
       },
       {
-        "image": "https://example.com/image10.jpg",
+        "image": "https://cdn.britannica.com/14/96314-050-9AC9F66D/Murray-River-South-Australia.jpg",
         "name": "Murray River",
         "title": "Australia’s Longest River",
         "details": "The Murray River, about 2,508 km long, is the longest river in Australia. It flows through New South Wales, Victoria, and South Australia, providing essential water for irrigation and agriculture. The river is home to unique wildlife, including the Murray cod and platypus. However, overuse and drought have impacted its water levels and ecosystem. Conservation efforts focus on restoring natural flow and protecting native species. The Murray-Darling Basin remains a vital water source for Australia's farming communities and wildlife.",
@@ -630,7 +630,7 @@
         "placeName": "Murray-Darling Basin"
       },
       {
-        "image": "https://example.com/image1.jpg",
+        "image": "https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FAHF2FYISNJO55J6N35YJBZ2JYY.jpg?auth=171c173665f01eec7c47d3402e93d6cde41e26b1304f6ef49a2cc12ff5fcde24&width=5136&quality=80",
         "name": "Eiffel Tower",
         "title": "The Symbol of Paris",
         "details": "The Eiffel Tower, located in Paris, France, is one of the most famous landmarks in the world. Built in 1889, it stands at 330 meters tall and attracts millions of visitors each year. Designed by Gustave Eiffel, the iron structure was initially criticized but is now a global icon of art and engineering. Visitors can take elevators to observation decks for breathtaking views of Paris. The tower is beautifully illuminated at night, making it a must-visit destination for tourists and romantics alike.",
@@ -639,7 +639,7 @@
         "placeName": "Paris"
       },
       {
-        "image": "https://example.com/image2.jpg",
+        "image": "https://cdn.britannica.com/82/94382-050-20CF23DB/Great-Wall-of-China-Beijing.jpg",
         "name": "Great Wall of China",
         "title": "The Longest Wall on Earth",
         "details": "The Great Wall of China stretches over 21,000 kilometers and is one of the most remarkable architectural achievements in history. Built between the 7th century BC and the Ming Dynasty, it was originally constructed to protect China from invasions. Today, it is a UNESCO World Heritage site and a major tourist attraction. Visitors can explore sections of the wall near Beijing, such as Badaling and Mutianyu, to witness the breathtaking scenery and ancient craftsmanship.",
@@ -648,7 +648,7 @@
         "placeName": "Beijing"
       },
       {
-        "image": "https://example.com/image3.jpg",
+        "image": "https://imachupicchu.com/wp-content/uploads/imachu-picchu.jpg",
         "name": "Machu Picchu",
         "title": "The Lost City of the Incas",
         "details": "Machu Picchu, located in the Peruvian Andes, is an ancient Incan city built in the 15th century. Hidden among the mountains, it remained undiscovered until 1911. The site features stone temples, terraces, and breathtaking views. Historians believe it was a royal estate or religious site. Today, it is a UNESCO World Heritage site and one of the New Seven Wonders of the World. Thousands of tourists hike the Inca Trail every year to reach this iconic landmark.",
@@ -657,7 +657,7 @@
         "placeName": "Cusco Region"
       },
       {
-        "image": "https://example.com/image4.jpg",
+        "image": "https://www.globalnationalparks.com/wp-content/uploads/national-park-grand-canyon.jpg",
         "name": "Grand Canyon",
         "title": "A Natural Wonder of the World",
         "details": "The Grand Canyon, located in Arizona, USA, is one of the most breathtaking natural wonders on Earth. Carved by the Colorado River over millions of years, it stretches 446 kilometers and reaches depths of over 1,800 meters. Visitors can explore scenic viewpoints like the South Rim and Skywalk. Hiking, rafting, and helicopter tours offer unforgettable experiences. The canyon’s rock layers reveal geological history dating back nearly two billion years, making it a must-visit for nature lovers.",
@@ -666,7 +666,7 @@
         "placeName": "Arizona"
       },
       {
-        "image": "https://example.com/image5.jpg",
+        "image": "https://plus.unsplash.com/premium_photo-1661964149725-fbf14eabd38c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c2FudG9yaW5pfGVufDB8fDB8fHww",
         "name": "Santorini",
         "title": "The Beautiful Greek Island",
         "details": "Santorini, a volcanic island in Greece, is known for its stunning white-washed houses, blue-domed churches, and breathtaking sunsets. The island, formed by a volcanic eruption, offers picturesque views of the Aegean Sea. Visitors enjoy exploring charming villages like Oia and Fira, relaxing on unique black sand beaches, and tasting delicious Greek cuisine. Santorini’s romantic atmosphere makes it a popular honeymoon destination, attracting millions of tourists annually.",
@@ -675,7 +675,7 @@
         "placeName": "Santorini Island"
       },
       {
-        "image": "https://example.com/image6.jpg",
+        "image": "https://assets.cntraveller.in/photos/63d3a2623d7229d4cf308ead/4:3/w_4789,h_3592,c_limit/Inside%20AJ6DF4.jpg",
         "name": "Taj Mahal",
         "title": "The Jewel of India",
         "details": "The Taj Mahal, located in Agra, India, is one of the most beautiful and recognized monuments in the world. Built by Emperor Shah Jahan in the 17th century as a mausoleum for his wife Mumtaz Mahal, it is an architectural masterpiece of white marble. The structure is famous for its intricate carvings, symmetrical gardens, and stunning reflection in the Yamuna River. The Taj Mahal is a UNESCO World Heritage site and a symbol of love, attracting millions of visitors every year.",
@@ -684,16 +684,7 @@
         "placeName": "Agra"
       },
       {
-        "image": "https://example.com/image7.jpg",
-        "name": "Statue of Liberty",
-        "title": "A Symbol of Freedom",
-        "details": "The Statue of Liberty, located in New York Harbor, USA, is one of the most famous symbols of freedom and democracy. A gift from France in 1886, the statue stands 93 meters tall and represents hope for immigrants arriving in the United States. Visitors can take a ferry to Liberty Island to explore the statue and museum. The crown offers panoramic views of New York City. The statue remains one of America’s most visited and cherished landmarks.",
-        "location": "North America",
-        "countryName": "United States",
-        "placeName": "New York"
-      },
-      {
-        "image": "https://example.com/image8.jpg",
+        "image": "https://cdn.britannica.com/02/179502-138-AE3BE74C/effects-construction-Rome-Colosseum.jpg?w=800&h=450&c=crop",
         "name": "Colosseum",
         "title": "The Grand Amphitheater of Rome",
         "details": "The Colosseum, located in Rome, Italy, is one of the greatest architectural wonders of the ancient world. Built in 80 AD, it could hold over 50,000 spectators who came to watch gladiator battles and public spectacles. Despite being partially ruined due to earthquakes, it remains a symbol of Roman history and engineering. Millions of tourists visit the Colosseum every year to witness its grandeur and learn about the fascinating history of the Roman Empire.",
@@ -702,23 +693,14 @@
         "placeName": "Rome"
       },
       {
-        "image": "https://example.com/image9.jpg",
+        "image": "https://www.fitzroyisland.com/wp-content/uploads/2020/12/What-You-Need-to-Know-Before-Visiting-Australias-Great-Barrier-Reef.jpg",
         "name": "Great Barrier Reef",
         "title": "The World’s Largest Coral Reef",
         "details": "The Great Barrier Reef, located off the coast of Australia, is the largest coral reef system in the world. It spans over 2,300 kilometers and is home to thousands of marine species. Tourists visit to snorkel, dive, and explore the vibrant underwater ecosystem. The reef is a UNESCO World Heritage site and a natural wonder. However, climate change and pollution threaten its existence, making conservation efforts crucial for its survival.",
         "location": "Australia",
         "countryName": "Australia",
         "placeName": "Queensland"
-      },
-      {
-        "image": "https://example.com/image10.jpg",
-        "name": "Christ the Redeemer",
-        "title": "The Icon of Rio",
-        "details": "Christ the Redeemer, a massive statue of Jesus Christ, overlooks Rio de Janeiro, Brazil, from Mount Corcovado. Standing 30 meters tall, it is one of the most recognized landmarks in the world. The statue, completed in 1931, symbolizes peace and Christianity. Tourists can take a train or hike to the summit for breathtaking views of the city. As one of the New Seven Wonders of the World, Christ the Redeemer attracts millions of visitors each year.",
-        "location": "South America",
-        "countryName": "Brazil",
-        "placeName": "Rio de Janeiro"
       }
     
-  ]
+]
   
