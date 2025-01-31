@@ -358,6 +358,187 @@
         "location": "Global",
         "countryName": "Various",
         "placeName": "Corporate Sector"
+      },
+      {
+        "image": "https://example.com/image1.jpg",
+        "name": "Apple Inc.",
+        "title": "Innovating Consumer Technology",
+        "details": "Apple Inc. is a global technology company known for its innovative products like the iPhone, Mac, and iPad. Founded in 1976 by Steve Jobs, Steve Wozniak, and Ronald Wayne, Apple has revolutionized personal computing and mobile devices. It also offers software services such as iCloud, iOS, and macOS. The App Store provides a vast ecosystem for developers. Apple's strong brand loyalty and premium quality make it one of the most valuable companies. With a focus on sustainability and innovation, Apple continues to shape the future of technology.",
+        "location": "Cupertino, California",
+        "countryName": "United States",
+        "placeName": "Apple Park"
+      },
+      {
+        "image": "https://example.com/image2.jpg",
+        "name": "Microsoft Corporation",
+        "title": "Empowering Digital Transformation",
+        "details": "Microsoft Corporation is a leading software and technology company founded by Bill Gates and Paul Allen in 1975. It is known for Windows OS, Microsoft Office, Azure cloud services, and gaming products like Xbox. Microsoft has expanded into AI, cybersecurity, and enterprise solutions. Its acquisitions, including LinkedIn and GitHub, strengthen its market position. The company invests heavily in cloud computing, AI research, and productivity tools. Microsoft’s commitment to innovation and digital transformation continues to drive its growth, making it a global leader in technology solutions.",
+        "location": "Redmond, Washington",
+        "countryName": "United States",
+        "placeName": "Microsoft Campus"
+      },
+      {
+        "image": "https://example.com/image3.jpg",
+        "name": "Amazon",
+        "title": "The E-Commerce Giant",
+        "details": "Amazon is a multinational company specializing in e-commerce, cloud computing, and digital streaming. Founded by Jeff Bezos in 1994, Amazon started as an online bookstore and grew into the world's largest online retailer. Its cloud division, Amazon Web Services (AWS), is a market leader. The company also owns Whole Foods, Twitch, and Prime Video. With a focus on logistics, AI, and automation, Amazon continues to dominate the global retail and technology industries. Its innovation in AI, such as Alexa, enhances customer experience and operational efficiency.",
+        "location": "Seattle, Washington",
+        "countryName": "United States",
+        "placeName": "Amazon HQ"
+      },
+      {
+        "image": "https://example.com/image4.jpg",
+        "name": "Google (Alphabet Inc.)",
+        "title": "The Search Engine Pioneer",
+        "details": "Google, a subsidiary of Alphabet Inc., is a global leader in internet services and AI technologies. Founded in 1998 by Larry Page and Sergey Brin, Google revolutionized search engines. Its products include Android, Chrome, Gmail, YouTube, and Google Cloud. Google leads in AI, with projects like DeepMind and Google Assistant. The company generates revenue primarily through digital advertising via Google Ads. With continuous investments in AI, quantum computing, and sustainability, Google remains at the forefront of global innovation and technology expansion.",
+        "location": "Mountain View, California",
+        "countryName": "United States",
+        "placeName": "Googleplex"
+      },
+      {
+        "image": "https://example.com/image5.jpg",
+        "name": "Tesla Inc.",
+        "title": "Revolutionizing Electric Vehicles",
+        "details": "Tesla Inc., founded by Elon Musk and others in 2003, is a pioneer in electric vehicles (EVs) and sustainable energy solutions. Tesla’s lineup includes Model S, Model 3, Model X, and Model Y, along with the Cybertruck and Roadster. The company leads in battery technology and autonomous driving (Autopilot). Tesla’s energy division offers solar panels and Powerwall solutions. Its Gigafactories produce EV components at scale. Tesla continues to disrupt the automotive industry with innovation in AI, battery efficiency, and self-driving technology.",
+        "location": "Austin, Texas",
+        "countryName": "United States",
+        "placeName": "Tesla Gigafactory"
+      },
+      {
+        "image": "https://example.com/image6.jpg",
+        "name": "Facebook (Meta Platforms)",
+        "title": "Building the Future of Social Media",
+        "details": "Meta Platforms, formerly Facebook, is a global technology company specializing in social media, virtual reality, and AI. Founded by Mark Zuckerberg in 2004, Meta owns Facebook, Instagram, WhatsApp, and Oculus. It is a leader in the metaverse and AR/VR technologies. Meta generates revenue primarily through digital advertising. The company invests in AI-driven content moderation and data security. With a vision for the future of digital interaction, Meta focuses on immersive experiences, expanding its influence in social networking, digital marketing, and online communities.",
+        "location": "Menlo Park, California",
+        "countryName": "United States",
+        "placeName": "Meta Headquarters"
+      },
+      {
+        "image": "https://example.com/image7.jpg",
+        "name": "Samsung Electronics",
+        "title": "Leading Innovation in Consumer Electronics",
+        "details": "Samsung Electronics, founded in 1969, is a global leader in consumer electronics, semiconductors, and telecommunications. The company manufactures smartphones, TVs, home appliances, and chipsets. Samsung’s Galaxy series competes with Apple in the mobile market. It is also a key supplier of OLED displays and memory chips. Samsung invests heavily in AI, 5G, and semiconductor research. With a strong presence in multiple industries, Samsung continues to drive technological advancements, maintaining its position as one of the most influential companies in the global market.",
+        "location": "Seoul",
+        "countryName": "South Korea",
+        "placeName": "Samsung Digital City"
+      },
+      {
+        "image": "https://example.com/image8.jpg",
+        "name": "IBM",
+        "title": "Pioneering Enterprise Technology",
+        "details": "IBM (International Business Machines) is a global technology company specializing in AI, cloud computing, and enterprise solutions. Founded in 1911, IBM has a long history of innovation, including the development of mainframes and quantum computing. The company offers services in AI, cybersecurity, and IT consulting. IBM Watson leads in AI-driven business intelligence. With a strong focus on hybrid cloud solutions and blockchain technology, IBM continues to support businesses worldwide with cutting-edge digital transformation solutions and enterprise-level IT services.",
+        "location": "Armonk, New York",
+        "countryName": "United States",
+        "placeName": "IBM Headquarters"
+      },
+      {
+        "image": "https://example.com/image9.jpg",
+        "name": "Toyota Motor Corporation",
+        "title": "Driving Innovation in Mobility",
+        "details": "Toyota, founded in 1937, is one of the largest automobile manufacturers globally. It is known for reliable and fuel-efficient vehicles like the Corolla, Camry, and Prius. Toyota leads in hybrid and hydrogen fuel cell technology with models like the Mirai. The company invests in autonomous driving, AI, and electric mobility. Toyota Production System (TPS) revolutionized manufacturing efficiency. With sustainability as a core focus, Toyota continues to innovate in mobility solutions, making advancements in smart transportation and eco-friendly vehicle technology.",
+        "location": "Toyota City",
+        "countryName": "Japan",
+        "placeName": "Toyota Headquarters"
+      },
+      {
+        "image": "https://example.com/image10.jpg",
+        "name": "Netflix",
+        "title": "Transforming the Entertainment Industry",
+        "details": "Netflix is a global streaming platform offering movies, TV shows, and original content. Founded in 1997 as a DVD rental service, it transitioned to streaming in 2007. Netflix produces hit series like Stranger Things, The Witcher, and Squid Game. It invests heavily in AI-powered recommendations and content localization. The company competes with Disney+, Amazon Prime Video, and HBO Max. With a subscriber base in over 190 countries, Netflix continues to redefine the entertainment industry through original storytelling, innovation, and global content distribution.",
+        "location": "Los Gatos, California",
+        "countryName": "United States",
+        "placeName": "Netflix Headquarters"
+      },
+      {
+        "image": "https://example.com/image1.jpg",
+        "name": "Python",
+        "title": "The Versatile Programming Language",
+        "details": "Python is a high-level, interpreted programming language known for its simplicity and readability. Developed by Guido van Rossum in 1991, it is widely used in web development, data science, AI, and automation. Python supports multiple programming paradigms, including procedural, object-oriented, and functional programming. Popular frameworks like Django and Flask simplify web development, while TensorFlow and PyTorch enable machine learning applications. Its extensive libraries and active community make it a top choice for beginners and professionals alike. Python's versatility and ease of use continue to drive its popularity across industries.",
+        "location": "Global",
+        "countryName": "Various",
+        "placeName": "Technology Industry"
+      },
+      {
+        "image": "https://example.com/image2.jpg",
+        "name": "JavaScript",
+        "title": "The Language of the Web",
+        "details": "JavaScript is a powerful scripting language primarily used for web development. Created by Brendan Eich in 1995, it enables interactive web pages and dynamic content. JavaScript runs on all modern browsers and supports front-end frameworks like React, Angular, and Vue.js. It is also used on the backend with Node.js. With the rise of full-stack development, JavaScript has become essential for building modern applications. Its asynchronous nature, event-driven architecture, and extensive ecosystem make it one of the most popular programming languages in the world.",
+        "location": "Global",
+        "countryName": "Various",
+        "placeName": "Web Development"
+      },
+      {
+        "image": "https://example.com/image3.jpg",
+        "name": "Java",
+        "title": "Write Once, Run Anywhere",
+        "details": "Java is a widely-used, object-oriented programming language designed for cross-platform compatibility. Developed by Sun Microsystems in 1995, Java powers enterprise applications, mobile development, and cloud computing. Its 'Write Once, Run Anywhere' principle allows applications to run on different platforms without modification. Java is commonly used in Android app development, web applications, and large-scale systems. Popular frameworks like Spring and Hibernate enhance productivity. With strong security features, performance optimization, and community support, Java remains a dominant language in the software industry.",
+        "location": "Global",
+        "countryName": "Various",
+        "placeName": "Software Industry"
+      },
+      {
+        "image": "https://example.com/image4.jpg",
+        "name": "C++",
+        "title": "The Powerhouse of Performance",
+        "details": "C++ is a high-performance, object-oriented programming language developed by Bjarne Stroustrup in 1985. It is widely used in system programming, game development, embedded systems, and financial applications. C++ provides direct memory manipulation, making it efficient for real-time applications. Game engines like Unreal Engine and software like Adobe Photoshop rely on C++. With features like templates, polymorphism, and multithreading, C++ offers a balance between control and abstraction. Its speed and efficiency make it ideal for developing high-performance applications in various industries.",
+        "location": "Global",
+        "countryName": "Various",
+        "placeName": "Game Development"
+      },
+      {
+        "image": "https://example.com/image5.jpg",
+        "name": "C#",
+        "title": "Microsoft's Flagship Language",
+        "details": "C# (C-Sharp) is a modern, object-oriented programming language developed by Microsoft in 2000. It is widely used for Windows applications, game development, and enterprise software. C# is the primary language for Unity, one of the most popular game engines. It integrates seamlessly with the .NET framework, allowing developers to build web, desktop, and cloud applications efficiently. Features like garbage collection, LINQ, and asynchronous programming enhance productivity. C# continues to evolve with updates in .NET Core, making it a robust choice for modern software development.",
+        "location": "Global",
+        "countryName": "Various",
+        "placeName": "Microsoft Ecosystem"
+      },
+      {
+        "image": "https://example.com/image6.jpg",
+        "name": "PHP",
+        "title": "The Server-Side Scripting Language",
+        "details": "PHP is a widely-used server-side scripting language designed for web development. Created by Rasmus Lerdorf in 1994, PHP powers over 75% of websites, including WordPress, Facebook, and Wikipedia. It is known for its simplicity, flexibility, and extensive support for databases like MySQL and PostgreSQL. PHP frameworks like Laravel and CodeIgniter streamline web application development. Despite competition from newer languages, PHP remains a dominant force in backend development due to its ease of use, performance, and strong community support.",
+        "location": "Global",
+        "countryName": "Various",
+        "placeName": "Web Development"
+      },
+      {
+        "image": "https://example.com/image7.jpg",
+        "name": "Swift",
+        "title": "Apple's Fast and Safe Language",
+        "details": "Swift is a modern programming language developed by Apple in 2014 for iOS, macOS, watchOS, and tvOS development. It is designed to be fast, safe, and expressive. Swift replaces Objective-C for Apple app development and offers features like automatic memory management and optionals. Its syntax is concise and beginner-friendly, making it ideal for new developers. With SwiftUI, developers can create visually appealing apps efficiently. Swift continues to evolve, solidifying its position as the preferred language for Apple's software ecosystem.",
+        "location": "Global",
+        "countryName": "Various",
+        "placeName": "Apple Ecosystem"
+      },
+      {
+        "image": "https://example.com/image8.jpg",
+        "name": "Go",
+        "title": "The Language of Scalable Systems",
+        "details": "Go, also known as Golang, is a statically typed, compiled language developed by Google in 2009. It is designed for high-performance, scalable applications, particularly in cloud computing and microservices. Go’s simplicity, concurrency model, and garbage collection make it ideal for distributed systems. Popular projects like Docker and Kubernetes are built with Go. It offers fast execution, easy deployment, and robust standard libraries. As cloud computing and DevOps gain traction, Go continues to grow in popularity among developers and enterprises.",
+        "location": "Global",
+        "countryName": "Various",
+        "placeName": "Cloud Computing"
+      },
+      {
+        "image": "https://example.com/image9.jpg",
+        "name": "Rust",
+        "title": "Safe and Efficient Systems Programming",
+        "details": "Rust is a modern systems programming language designed for safety, concurrency, and performance. Developed by Mozilla in 2010, Rust eliminates memory-related bugs common in C and C++ through ownership and borrowing mechanisms. It is widely used in systems programming, web assembly, and blockchain technology. Companies like Microsoft and Amazon use Rust for its reliability and security. Rust's growing community and powerful features make it a strong choice for developing high-performance and memory-safe applications without the risks of traditional low-level languages.",
+        "location": "Global",
+        "countryName": "Various",
+        "placeName": "Systems Programming"
+      },
+      {
+        "image": "https://example.com/image10.jpg",
+        "name": "Kotlin",
+        "title": "The Future of Android Development",
+        "details": "Kotlin is a modern, statically typed programming language officially supported for Android development by Google. Developed by JetBrains in 2011, Kotlin offers concise syntax, null safety, and full interoperability with Java. It is widely used for mobile, web, and backend development. Kotlin's expressive features, like coroutines and extension functions, enhance developer productivity. With strong support from Google and a growing ecosystem, Kotlin is becoming the preferred language for building robust, scalable, and efficient Android applications worldwide.",
+        "location": "Global",
+        "countryName": "Various",
+        "placeName": "Android Development"
       }
+    
   ]
   
