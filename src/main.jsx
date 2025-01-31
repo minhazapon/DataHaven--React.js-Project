@@ -12,6 +12,7 @@ import Home from './Home';
 import AddInformation from './AddInformation/AddInformation';
 import Service from './service file/Service';
 import Contact from './contact file/Contact';
+import SearchNatural from './SearchItems file/SearchNatural';
 
 const router = createBrowserRouter([
   {
@@ -37,6 +38,10 @@ const router = createBrowserRouter([
       {
         path: "/contact",
         element: <Contact></Contact>,
+      },
+      {
+        path: "/SNatural",
+        element: <SearchNatural></SearchNatural>,
       },
     ],
   },

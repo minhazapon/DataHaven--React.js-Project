@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { motion } from "framer-motion";
+import { Link } from "react-router-dom";
 
 function ServiceCard() {
     const [searchQuery, setSearchQuery] = useState("");
@@ -54,50 +55,52 @@ function ServiceCard() {
                     />
                 </div>
 
-                <div className="mt-10">
-                    {filteredCards.map((card, index) => (
-                        <motion.div
-                            key={index}
-                            initial={{ opacity: 0, y: 20 }}
-                            animate={{ opacity: 1, y: 0 }}
-                            transition={{ delay: index * 0.2 }}
-                            className="hero bg-gradient-to-r from-white via-gray-200 to-cyan-800 mb-5"
-                        >
-                            <div className="hero-content flex-col lg:flex-row">
-                                <motion.img
-                                    initial={{ scale: 0.9 }}
-                                    whileHover={{ scale: 1.1 }}
-                                    transition={{ duration: 0.3 }}
-                                    src={card.image}
-                                    className="max-w-sm rounded-lg shadow-2xl h-[230px] w-full"
-                                    alt={card.title}
-                                />
-                                <div>
-                                    <motion.h1
-                                        initial={{ x: -50, opacity: 0 }}
-                                        animate={{ x: 0, opacity: 1 }}
-                                        transition={{ duration: 0.5 }}
-                                        className="text-6xl dataText font-thin"
-                                    >
-                                        {card.title}
-                                    </motion.h1>
-                                    <motion.p
-                                        initial={{ x: 50, opacity: 0 }}
-                                        animate={{ x: 0, opacity: 1 }}
-                                        transition={{ duration: 0.5 }}
-                                        className="py-6 text-black font-mono"
-                                    >
-                                        {card.description}
-                                    </motion.p>
-
+                <Link to='/'>
+                    <div className="mt-10">
+                        {filteredCards.map((card, index) => (
+                            <motion.div
+                                key={index}
+                                initial={{ opacity: 0, y: 20 }}
+                                animate={{ opacity: 1, y: 0 }}
+                                transition={{ delay: index * 0.2 }}
+                                className="hero bg-gradient-to-r from-white via-gray-200 to-cyan-800 mb-5"
+                            >
+                                <div className="hero-content flex-col lg:flex-row">
+                                    <motion.img
+                                        initial={{ scale: 0.9 }}
+                                        whileHover={{ scale: 1.1 }}
+                                        transition={{ duration: 0.3 }}
+                                        src={card.image}
+                                        className="max-w-sm rounded-lg shadow-2xl h-[230px] w-full"
+                                        alt={card.title}
+                                    />
                                     <div>
-                                        <button className=" btn text-white bg-cyan-800 ">Search</button>
+                                        <motion.h1
+                                            initial={{ x: -50, opacity: 0 }}
+                                            animate={{ x: 0, opacity: 1 }}
+                                            transition={{ duration: 0.5 }}
+                                            className="text-6xl dataText font-thin"
+                                        >
+                                            {card.title}
+                                        </motion.h1>
+                                        <motion.p
+                                            initial={{ x: 50, opacity: 0 }}
+                                            animate={{ x: 0, opacity: 1 }}
+                                            transition={{ duration: 0.5 }}
+                                            className="py-6 text-black font-mono"
+                                        >
+                                            {card.description}
+                                        </motion.p>
+
+                                        <div>
+                                            <button className=" btn text-white bg-cyan-800 ">Search</button>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                        </motion.div>
-                    ))}
-                </div>
+                            </motion.div>
+                        ))}
+                    </div>
+                </Link>
             </div>
         </div>
     );

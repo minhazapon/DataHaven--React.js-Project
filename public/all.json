@@ -1,0 +1,93 @@
+[
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Save_the_sundarbans_20.jpg",
+      "name": "Sundarbans",
+      "title": "Largest Mangrove Forest",
+      "details": "Sundarbans is the largest mangrove forest in the world and home to the Royal Bengal Tiger.",
+      "location": "21.9497° N, 89.1833° E",
+      "countryName": "Bangladesh",
+      "placeName": "Khulna Division"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/54ac9e94e4b0c9d38e248bf6/1569205163203-391L6J3NESJJS0IPDOWT/rainforest",
+      "name": "Amazon Rainforest",
+      "title": "Lungs of the Earth",
+      "details": "The Amazon Rainforest is the world's largest tropical rainforest, producing 20% of the world’s oxygen.",
+      "location": "-3.4653° S, -62.2159° W",
+      "countryName": "Brazil",
+      "placeName": "Amazon Basin"
+    },
+    {
+      "image": "https://justinpluslauren.com/wp-content/uploads/2025/01/2019-NiagaraFalls012.jpg",
+      "name": "Niagara Falls",
+      "title": "Majestic Waterfall",
+      "details": "Niagara Falls is one of the most famous waterfalls in the world, located on the border of the USA and Canada.",
+      "location": "43.0828° N, 79.0742° W",
+      "countryName": "Canada",
+      "placeName": "Ontario"
+    },
+    {
+      "image": "https://npf-prod.imgix.net/uploads/shutterstock_97706066_1.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=900&q=80&w=1600",
+      "name": "Grand Canyon",
+      "title": "Nature’s Wonder",
+      "details": "A massive canyon carved by the Colorado River, offering breathtaking landscapes and rich geological history.",
+      "location": "36.1069° N, 112.1129° W",
+      "countryName": "USA",
+      "placeName": "Arizona"
+    },
+    {
+      "image": "https://www.eomap.com/wp-content/uploads/2019/02/EOMAP_Great-Barrier-Reef.jpg",
+      "name": "Great Barrier Reef",
+      "title": "Marine Paradise",
+      "details": "The world's largest coral reef system, home to diverse marine life and stunning underwater scenery.",
+      "location": "-18.2871° S, 147.6992° E",
+      "countryName": "Australia",
+      "placeName": "Queensland"
+    },
+    {
+      "image": "https://cdn.britannica.com/17/83817-050-67C814CD/Mount-Everest.jpg",
+      "name": "Mount Everest",
+      "title": "Highest Peak on Earth",
+      "details": "Mount Everest is the tallest mountain in the world, attracting climbers and adventurers worldwide.",
+      "location": "27.9881° N, 86.9250° E",
+      "countryName": "Nepal",
+      "placeName": "Himalayas"
+    },
+    {
+      "image": "https://cdn.britannica.com/91/5391-050-78522514/Victoria-Falls-bridge-Zambezi-River-Zimbabwe-Zambia.jpg",
+      "name": "Victoria Falls",
+      "title": "The Smoke That Thunders",
+      "details": "One of the largest waterfalls in the world, located on the Zambezi River between Zambia and Zimbabwe.",
+      "location": "-17.9243° S, 25.8572° E",
+      "countryName": "Zimbabwe",
+      "placeName": "Livingstone"
+    },
+    {
+      "image": "https://res.cloudinary.com/enchanting/q_70,f_auto,c_fill,g_face/ymt-web/2024/03/shutterstock_125026373-fotor-20240328153331.jpg",
+      "name": "Yellowstone National Park",
+      "title": "First National Park",
+      "details": "Famous for its geothermal features, including Old Faithful geyser and stunning wildlife.",
+      "location": "44.4280° N, 110.5885° W",
+      "countryName": "USA",
+      "placeName": "Wyoming"
+    },
+    {
+      "image": "https://www.amadriapark.com/wp-content/uploads/sites/5/2018/07/plitvice-lakes-autumn.jpg",
+      "name": "Plitvice Lakes",
+      "title": "Fairy Tale Waterfalls",
+      "details": "A beautiful national park in Croatia, famous for its cascading lakes and waterfalls.",
+      "location": "44.8650° N, 15.5820° E",
+      "countryName": "Croatia",
+      "placeName": "Lika-Senj County"
+    },
+    {
+      "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/12/2e/52/31.jpg",
+      "name": "Antelope Canyon",
+      "title": "Nature’s Masterpiece",
+      "details": "A stunning slot canyon known for its wave-like structure and light beams.",
+      "location": "36.8619° N, 111.3743° W",
+      "countryName": "USA",
+      "placeName": "Arizona"
+    }
+  ]
+  
