@@ -13,6 +13,7 @@ import AddInformation from './AddInformation/AddInformation';
 import Service from './service file/Service';
 import Contact from './contact file/Contact';
 import SearchNatural from './SearchItems file/SearchNatural';
+import AllSearchItems from './SearchItems file/AllSearchItems';
 
 const router = createBrowserRouter([
   {
@@ -40,8 +41,8 @@ const router = createBrowserRouter([
         element: <Contact></Contact>,
       },
       {
-        path: "/SNatural",
-        element: <SearchNatural></SearchNatural>,
+        path: "/allItems",
+        element: <AllSearchItems></AllSearchItems>,
       },
     ],
   },
