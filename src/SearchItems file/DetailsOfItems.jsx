@@ -5,8 +5,7 @@ function DetailsOfItems({ items }) {
 
     return (
         <div>
-
-            <div className="max-w-lg h-[800px] p-4 shadow-md bg-black text-gray-100">
+            <div className="max-w-lg h-[800px] p-4 shadow-md bg-black text-gray-100 hover:border-[3px] border-cyan-600">
                 <div className="flex justify-between pb-4 border-bottom">
                     <div className="flex items-center">
                         <a rel="noopener noreferrer" href="#" className=" font-thin mb-0 capitalize text-gray-100">{title}</a>
@@ -27,7 +26,6 @@ function DetailsOfItems({ items }) {
                     </div>
                 </div>
             </div>
-
         </div>
     )
 }
