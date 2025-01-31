@@ -55,7 +55,7 @@ function ServiceCard() {
                     />
                 </div>
 
-                <Link to='/'>
+                <Link to='/allItems'>
                     <div className="mt-10">
                         {filteredCards.map((card, index) => (
                             <motion.div
