@@ -38,7 +38,7 @@ function AllSearchItems() {
                 </div>
                 <div className="flex justify-center mt-10">
                     <input
-                        className="h-[50px] w-[350px] md:w-[1068px] border-[2px] border-cyan-700 rounded-xl p-3"
+                        className="h-[50px] w-[350px] md:w-[1150px] border-[2px] border-cyan-700 rounded-xl p-3"
                         placeholder="Search Your Information"
                         type="search"
                         value={searchQuery}
