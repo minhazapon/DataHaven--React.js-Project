@@ -1,4 +1,5 @@
 import { useLoaderData } from "react-router-dom"
+import DetailsOfItems from "./DetailsOfItems"
 
 
 
@@ -16,15 +17,15 @@ function AllSearchItems() {
                     <p className=" dataText  text-2xl md:text-6xl text-black ">Search Hub</p>
                 </div>
 
-
-
-
-
-
-
+                <div>
+                    <div>
+                        {
+                            loader.map(loader => <DetailsOfItems loader={loader} ></DetailsOfItems>)
+                        }
+                    </div>
+                </div>
 
             </div>
-
         </div>
     )
 }

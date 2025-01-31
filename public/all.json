@@ -1,77 +1,85 @@
 [
-    {
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Save_the_sundarbans_20.jpg",
-      "name": "Sundarbans",
-      "title": "Largest Mangrove Forest",
-      "details": "Sundarbans is the largest mangrove forest in the world and home to the Royal Bengal Tiger.",
-      "location": "21.9497° N, 89.1833° E",
-      "countryName": "Bangladesh",
-      "placeName": "Khulna Division"
-    },
-    {
-      "image": "https://images.squarespace-cdn.com/content/v1/54ac9e94e4b0c9d38e248bf6/1569205163203-391L6J3NESJJS0IPDOWT/rainforest",
-      "name": "Amazon Rainforest",
-      "title": "Lungs of the Earth",
-      "details": "The Amazon Rainforest is the world's largest tropical rainforest, producing 20% of the world’s oxygen.",
-      "location": "-3.4653° S, -62.2159° W",
-      "countryName": "Brazil",
-      "placeName": "Amazon Basin"
-    },
-    {
-      "image": "https://justinpluslauren.com/wp-content/uploads/2025/01/2019-NiagaraFalls012.jpg",
-      "name": "Niagara Falls",
-      "title": "Majestic Waterfall",
-      "details": "Niagara Falls is one of the most famous waterfalls in the world, located on the border of the USA and Canada.",
-      "location": "43.0828° N, 79.0742° W",
-      "countryName": "Canada",
-      "placeName": "Ontario"
-    },
-    {
-      "image": "https://npf-prod.imgix.net/uploads/shutterstock_97706066_1.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=900&q=80&w=1600",
-      "name": "Grand Canyon",
-      "title": "Nature’s Wonder",
-      "details": "A massive canyon carved by the Colorado River, offering breathtaking landscapes and rich geological history.",
-      "location": "36.1069° N, 112.1129° W",
-      "countryName": "USA",
-      "placeName": "Arizona"
-    },
-    {
-      "image": "https://www.eomap.com/wp-content/uploads/2019/02/EOMAP_Great-Barrier-Reef.jpg",
-      "name": "Great Barrier Reef",
-      "title": "Marine Paradise",
-      "details": "The world's largest coral reef system, home to diverse marine life and stunning underwater scenery.",
-      "location": "-18.2871° S, 147.6992° E",
-      "countryName": "Australia",
-      "placeName": "Queensland"
-    },
-    {
-      "image": "https://cdn.britannica.com/17/83817-050-67C814CD/Mount-Everest.jpg",
-      "name": "Mount Everest",
-      "title": "Highest Peak on Earth",
-      "details": "Mount Everest is the tallest mountain in the world, attracting climbers and adventurers worldwide.",
-      "location": "27.9881° N, 86.9250° E",
-      "countryName": "Nepal",
-      "placeName": "Himalayas"
-    },
-    {
-      "image": "https://cdn.britannica.com/91/5391-050-78522514/Victoria-Falls-bridge-Zambezi-River-Zimbabwe-Zambia.jpg",
-      "name": "Victoria Falls",
-      "title": "The Smoke That Thunders",
-      "details": "One of the largest waterfalls in the world, located on the Zambezi River between Zambia and Zimbabwe.",
-      "location": "-17.9243° S, 25.8572° E",
-      "countryName": "Zimbabwe",
-      "placeName": "Livingstone"
-    },
-    {
-      "image": "https://res.cloudinary.com/enchanting/q_70,f_auto,c_fill,g_face/ymt-web/2024/03/shutterstock_125026373-fotor-20240328153331.jpg",
-      "name": "Yellowstone National Park",
-      "title": "First National Park",
-      "details": "Famous for its geothermal features, including Old Faithful geyser and stunning wildlife.",
-      "location": "44.4280° N, 110.5885° W",
-      "countryName": "USA",
-      "placeName": "Wyoming"
-    },
-    {
+  {
+    "id": 1,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Save_the_sundarbans_20.jpg",
+    "name": "Sundarbans",
+    "title": "Largest Mangrove Forest",
+    "details": "Sundarbans is the largest mangrove forest in the world and home to the Royal Bengal Tiger.",
+    "location": "21.9497° N, 89.1833° E",
+    "countryName": "Bangladesh",
+    "placeName": "Khulna Division"
+  },
+  {
+    "id": 2,
+    "image": "https://images.squarespace-cdn.com/content/v1/54ac9e94e4b0c9d38e248bf6/1569205163203-391L6J3NESJJS0IPDOWT/rainforest",
+    "name": "Amazon Rainforest",
+    "title": "Lungs of the Earth",
+    "details": "The Amazon Rainforest is the world's largest tropical rainforest, producing 20% of the world’s oxygen.",
+    "location": "-3.4653° S, -62.2159° W",
+    "countryName": "Brazil",
+    "placeName": "Amazon Basin"
+  },
+  {
+    "id": 3,
+    "image": "https://justinpluslauren.com/wp-content/uploads/2025/01/2019-NiagaraFalls012.jpg",
+    "name": "Niagara Falls",
+    "title": "Majestic Waterfall",
+    "details": "Niagara Falls is one of the most famous waterfalls in the world, located on the border of the USA and Canada.",
+    "location": "43.0828° N, 79.0742° W",
+    "countryName": "Canada",
+    "placeName": "Ontario"
+  },
+  {
+    "id": 4,
+    "image": "https://npf-prod.imgix.net/uploads/shutterstock_97706066_1.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=900&q=80&w=1600",
+    "name": "Grand Canyon",
+    "title": "Nature’s Wonder",
+    "details": "A massive canyon carved by the Colorado River, offering breathtaking landscapes and rich geological history.",
+    "location": "36.1069° N, 112.1129° W",
+    "countryName": "USA",
+    "placeName": "Arizona"
+  },
+  {
+    "id": 5,
+    "image": "https://www.eomap.com/wp-content/uploads/2019/02/EOMAP_Great-Barrier-Reef.jpg",
+    "name": "Great Barrier Reef",
+    "title": "Marine Paradise",
+    "details": "The world's largest coral reef system, home to diverse marine life and stunning underwater scenery.",
+    "location": "-18.2871° S, 147.6992° E",
+    "countryName": "Australia",
+    "placeName": "Queensland"
+  },
+  {
+    "id": 6,
+    "image": "https://cdn.britannica.com/17/83817-050-67C814CD/Mount-Everest.jpg",
+    "name": "Mount Everest",
+    "title": "Highest Peak on Earth",
+    "details": "Mount Everest is the tallest mountain in the world, attracting climbers and adventurers worldwide.",
+    "location": "27.9881° N, 86.9250° E",
+    "countryName": "Nepal",
+    "placeName": "Himalayas"
+  },
+  {
+    "id": 7,
+    "image": "https://cdn.britannica.com/91/5391-050-78522514/Victoria-Falls-bridge-Zambezi-River-Zimbabwe-Zambia.jpg",
+    "name": "Victoria Falls",
+    "title": "The Smoke That Thunders",
+    "details": "One of the largest waterfalls in the world, located on the Zambezi River between Zambia and Zimbabwe.",
+    "location": "-17.9243° S, 25.8572° E",
+    "countryName": "Zimbabwe",
+    "placeName": "Livingstone"
+  },
+  {
+    "id": 8,
+    "image": "https://res.cloudinary.com/enchanting/q_70,f_auto,c_fill,g_face/ymt-web/2024/03/shutterstock_125026373-fotor-20240328153331.jpg",
+    "name": "Yellowstone National Park",
+    "title": "First National Park",
+    "details": "Famous for its geothermal features, including Old Faithful geyser and stunning wildlife.",
+    "location": "44.4280° N, 110.5885° W",
+    "countryName": "USA",
+    "placeName": "Wyoming"
+  },
+    { "id": 9,
       "image": "https://www.amadriapark.com/wp-content/uploads/sites/5/2018/07/plitvice-lakes-autumn.jpg",
       "name": "Plitvice Lakes",
       "title": "Fairy Tale Waterfalls",
@@ -80,7 +88,7 @@
       "countryName": "Croatia",
       "placeName": "Lika-Senj County"
     },
-    {
+    { "id": 10,
       "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/12/2e/52/31.jpg",
       "name": "Antelope Canyon",
       "title": "Nature’s Masterpiece",
@@ -89,7 +97,7 @@
       "countryName": "USA",
       "placeName": "Arizona"
     },
-    {
+    {   "id": 11,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4GQuewxLfMh2olMxwVIVsJmu1qFf5Q4dwZw&s",
         "name": "Artificial Intelligence",
         "title": "Future of Smart Automation",
@@ -98,7 +106,7 @@
         "countryName": "Various",
         "placeName": "Technology Sector"
       },
-      {
+      { "id": 12,
         "image": "https://assets.bizclikmedia.net/1800/31939d8a53ebe7c8b5c3c552d81db151:4ebeab1890b29e0931eb3d6a76a1f8cb/gettyimages-1277731016-20-284-29-1-jpg.webp",
         "name": "Cloud Computing",
         "title": "Revolutionizing Data Storage",
@@ -107,7 +115,7 @@
         "countryName": "Various",
         "placeName": "Technology Sector"
       },
-      {
+      { "id": 13,
         "image": "https://imgproxy.divecdn.com/Sw487ygwxSdQb27s_HixyyiopicX-waj-bJt5H5TIqQ/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDIwMDM5OTAwLmpwZw==.webp",
         "name": "Cybersecurity",
         "title": "Protecting Digital Assets",
@@ -116,7 +124,7 @@
         "countryName": "Various",
         "placeName": "Technology Sector"
       },
-      {
+      { "id": 14,
         "image": "https://bsmedia.business-standard.com/_media/bs/img/about-page/thumb/464_464/1611107541.jpg",
         "name": "Blockchain Technology",
         "title": "The Future of Secure Transactions",
@@ -125,7 +133,7 @@
         "countryName": "Various",
         "placeName": "Technology Sector"
       },
-      {
+      { "id": 15,
         "image": "https://media.licdn.com/dms/image/v2/D4D12AQEcgU_Wy0kGMw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1673521544129?e=2147483647&v=beta&t=wNkNGpBO7vGbmi9OUGGGlVMGkP8I1M9W-Ov97GWXGZg",
         "name": "Internet of Things (IoT)",
         "title": "Connecting Smart Devices",
@@ -134,7 +142,7 @@
         "countryName": "Various",
         "placeName": "Technology Sector"
       },
-      {
+      { "id": 16,
         "image": "https://media.licdn.com/dms/image/D4D12AQFTaDdHveScUQ/article-cover_image-shrink_720_1280/0/1685965315663?e=2147483647&v=beta&t=Q4tFkqW1qAR7K6qEihXsXPIJC3w6rUiRYG9mVYyDkLc",
         "name": "Big Data Analytics",
         "title": "Unlocking Insights from Data",
@@ -143,7 +151,7 @@
         "countryName": "Various",
         "placeName": "Technology Sector"
       },
-      {
+      { "id": 17,
         "image": "https://media.licdn.com/dms/image/D5612AQFzYlXRx2wSwQ/article-cover_image-shrink_600_2000/0/1699002264648?e=2147483647&v=beta&t=snyBQ9RPiaCEyacnuArgGJC8RqOLBKZ5aPO5ddd8tv8",
         "name": "5G Technology",
         "title": "Revolutionizing Connectivity",
@@ -152,7 +160,7 @@
         "countryName": "Various",
         "placeName": "Technology Sector"
       },
-      {
+      { "id": 18,
         "image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Virtual_Reality_1.jpg",
         "name": "Virtual Reality (VR) & Augmented Reality (AR)",
         "title": "Enhancing Digital Experiences",
@@ -161,7 +169,7 @@
         "countryName": "Various",
         "placeName": "Technology Sector"
       },
-      {
+      { "id": 19,
         "image": "https://innovationatwork.ieee.org/wp-content/uploads/2019/09/bigstock-Edge-Computing-Modern-It-Techn-280957174_1024X684.png",
         "name": "Edge Computing",
         "title": "Faster Data Processing",
@@ -170,7 +178,7 @@
         "countryName": "Various",
         "placeName": "Technology Sector"
       },
-      {
+      { "id": 20,
         "image": "https://s.yimg.com/ny/api/res/1.2/A3dl78O_GbBiBQoiks9t3Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MA--/https://media.zenfs.com/en/motleyfool.com/df3f64ebf998dba4b17e929c506b4408",
         "name": "Quantum Computing",
         "title": "The Future of Supercomputing",
@@ -179,7 +187,7 @@
         "countryName": "Various",
         "placeName": "Technology Sector"
       },
-      {
+      { "id": 21,
         "image": "https://www.nbc.com/sites/nbcblog/files/styles/scale_1280/public/2024/07/paris-2024-olympics-soccer.jpg",
         "name": "Football",
         "title": "The World's Most Popular Sport",
@@ -188,7 +196,7 @@
         "countryName": "Various",
         "placeName": "Stadiums and Football Fields"
       },
-      {
+      { "id": 22,
         "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/11/17/USAT/71618392007-cricket-promo-001.png?crop=2663,1997,x839,y3",
         "name": "Cricket",
         "title": "A Gentleman’s Game",
@@ -197,7 +205,7 @@
         "countryName": "Various",
         "placeName": "Cricket Grounds"
       },
-      {
+      { "id": 23,
         "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bmJhJTIwYmFza2V0YmFsbHxlbnwwfHwwfHx8MA%3D%3D",
         "name": "Basketball",
         "title": "Fast-Paced and High-Scoring",
@@ -206,7 +214,7 @@
         "countryName": "Various",
         "placeName": "Basketball Courts"
       },
-      {
+      { "id": 24,
         "image": "https://longform.atptour.com/atp-tour-corporate/assets/YAHHNbL0BF/gettyimages-1479161206-4096x2731.jpg",
         "name": "Tennis",
         "title": "A Game of Precision and Stamina",
@@ -215,7 +223,7 @@
         "countryName": "Various",
         "placeName": "Tennis Courts"
       },
-      {
+      { "id": 25,
         "image": "https://www.euroschoolindia.com/wp-content/uploads/2023/05/world-athletics-day.jpg",
         "name": "Athletics",
         "title": "The Foundation of All Sports",
@@ -224,7 +232,7 @@
         "countryName": "Various",
         "placeName": "Stadiums and Tracks"
       },
-      {
+      { "id": 26,
         "image": "https://media.formula1.com/image/upload/t_16by9South/f_auto/q_auto/v1709392049/trackside-images/2024/F1_Grand_Prix_of_Bahrain/2053149561.jpg",
         "name": "Formula 1",
         "title": "The Pinnacle of Motorsport",
@@ -233,7 +241,7 @@
         "countryName": "Various",
         "placeName": "Racing Circuits"
       },
-      {
+      { "id": 27,
         "image": "https://dailynews.co.tz/wp-content/uploads/2023/04/boxing.webp",
         "name": "Boxing",
         "title": "The Sweet Science",
@@ -242,7 +250,7 @@
         "countryName": "Various",
         "placeName": "Boxing Arenas"
       },
-      {
+      { "id": 28,
         "image": "https://smockgolf.com/wp-content/uploads/2015/04/tight.jpg",
         "name": "Golf",
         "title": "A Sport of Precision and Patience",
@@ -251,7 +259,7 @@
         "countryName": "Various",
         "placeName": "Golf Courses"
       },
-      {
+      { "id": 29,
         "image": "https://tenniszon.com/cdn/shop/articles/shutterstock_760019368_1100x.jpg",
         "name": "Badminton",
         "title": "Fast-Paced Racket Sport",
@@ -260,7 +268,7 @@
         "countryName": "Various",
         "placeName": "Indoor Courts"
       },
-      {
+      { "id": 30,
         "image": "https://ai-analytics.wharton.upenn.edu/wp-content/uploads/2023/02/zsdfgsdfg-Edit-scaled.jpg",
         "name": "Wrestling",
         "title": "A Test of Strength and Technique",
@@ -269,7 +277,7 @@
         "countryName": "Various",
         "placeName": "Wrestling Arenas"
       },
-      {
+      { "id": 31,
         "image": "https://phoenixnap.com/glossary/wp-content/uploads/2022/08/what-is-an-operating-system.jpg",
         "name": "Operating System",
         "title": "The Backbone of Computing",
@@ -278,7 +286,7 @@
         "countryName": "Various",
         "placeName": "Technology Industry"
       },
-      {
+      { "id": 32,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpvMpIyi4h_CN59zDC7iRYG4JR5ziyhdherg&s",
         "name": "Database Management System",
         "title": "Organizing and Storing Data Efficiently",
@@ -287,7 +295,7 @@
         "countryName": "Various",
         "placeName": "Software Industry"
       },
-      {
+      { "id": 33,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRk__jbY_OQAseU0AkDimMArPP1_fyN2jN7Q&s",
         "name": "Cybersecurity Software",
         "title": "Protecting Digital Assets",
@@ -296,7 +304,7 @@
         "countryName": "Various",
         "placeName": "IT Security Sector"
       },
-      {
+      { "id": 34,
         "image": "https://nascenia.com/wp-content/uploads/2017/09/picture_18.jpg",
         "name": "Cloud Computing Software",
         "title": "Revolutionizing IT Infrastructure",
@@ -305,7 +313,7 @@
         "countryName": "Various",
         "placeName": "Cloud Industry"
       },
-      {
+      { "id": 35,
         "image": "https://cdn.open-pr.com/W/8/W807498128_g.jpg",
         "name": "Enterprise Resource Planning (ERP) Software",
         "title": "Optimizing Business Operations",
@@ -314,7 +322,7 @@
         "countryName": "Various",
         "placeName": "Business Sector"
       },
-      {
+      { "id": 36,
         "image": "https://knowledge.hubspot.com/hubfs/Best-Free-Graphic-Design-Software-23-20240614-9288743.webp",
         "name": "Graphic Design Software",
         "title": "Creating Stunning Visuals",
@@ -323,7 +331,7 @@
         "countryName": "Various",
         "placeName": "Creative Industry"
       },
-      {
+      { "id": 37,
         "image": "https://images.ctfassets.net/lzny33ho1g45/6bqSDOwd1BDpHxE4bBRnLU/610a9f51b788e974c1fa419dcbf624b7/image3.jpeg",
         "name": "Video Editing Software",
         "title": "Bringing Stories to Life",
@@ -332,7 +340,7 @@
         "countryName": "Various",
         "placeName": "Media and Film Industry"
       },
-      {
+      { "id": 38,
         "image": "https://www.analyticssteps.com/backend/media/thumbnail/2419395/9525800_1640581900_Top%20Game%20Development%20SoftwaresArtboard%201.jpg",
         "name": "Game Development Software",
         "title": "Powering Interactive Experiences",
@@ -341,7 +349,7 @@
         "countryName": "Various",
         "placeName": "Gaming Industry"
       },
-      {
+      { "id": 39,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1gAVxErP8fVzei86oFjMMuIPc3dZa07d6Fw&s",
         "name": "Artificial Intelligence Software",
         "title": "Shaping the Future of Automation",
@@ -350,7 +358,7 @@
         "countryName": "Various",
         "placeName": "Technology Industry"
       },
-      {
+      { "id": 40,
         "image": "https://kantata.marketing/wp-content/uploads/2022/07/man-on-tablet-with-graphs-and-numbers-floating-above-the-tablet.jpg",
         "name": "Project Management Software",
         "title": "Enhancing Team Collaboration",
@@ -359,7 +367,7 @@
         "countryName": "Various",
         "placeName": "Corporate Sector"
       },
-      {
+      { "id": 41,
         "image": "https://www.shutterstock.com/image-illustration/pune-india-february-19-2024-600nw-2427127541.jpg",
         "name": "Apple Inc.",
         "title": "Innovating Consumer Technology",
@@ -368,7 +376,7 @@
         "countryName": "United States",
         "placeName": "Apple Park"
       },
-      {
+      { "id": 42,
         "image": "https://www.investmentmonitor.ai/wp-content/uploads/sites/7/2021/12/microsoft-headquarters-fdi.jpg",
         "name": "Microsoft Corporation",
         "title": "Empowering Digital Transformation",
@@ -377,7 +385,7 @@
         "countryName": "United States",
         "placeName": "Microsoft Campus"
       },
-      {
+      { "id": 43,
         "image": "https://www.investopedia.com/thmb/MSdkb9W7mv3ak-2FfGpzvN3YaJg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-12446899391-e57beafa9b684e5f8e174f704bb7357f.jpg",
         "name": "Amazon",
         "title": "The E-Commerce Giant",
@@ -386,7 +394,7 @@
         "countryName": "United States",
         "placeName": "Amazon HQ"
       },
-      {
+      { "id": 44,
         "image": "https://cdn.britannica.com/17/254817-050-F2FF48F6/Google-Alphabet-Inc-photo-illustration.jpg",
         "name": "Google (Alphabet Inc.)",
         "title": "The Search Engine Pioneer",
@@ -395,7 +403,7 @@
         "countryName": "United States",
         "placeName": "Googleplex"
       },
-      {
+      { "id": 45,
         "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJ6PuEYvOVoY/v1/-1x-1.webp",
         "name": "Tesla Inc.",
         "title": "Revolutionizing Electric Vehicles",
@@ -404,7 +412,7 @@
         "countryName": "United States",
         "placeName": "Tesla Gigafactory"
       },
-      {
+      { "id": 46,
         "image": "https://about.fb.com/wp-content/uploads/2021/10/Meta-Planets-img-16x9-1.jpg?w=1200",
         "name": "Facebook (Meta Platforms)",
         "title": "Building the Future of Social Media",
@@ -413,7 +421,7 @@
         "countryName": "United States",
         "placeName": "Meta Headquarters"
       },
-      {
+      { "id": 47,
         "image": "https://cdn.daily-sun.com/public/news_images/2017/04/08/Samsung-HQ-daily-sun.jpg",
         "name": "Samsung Electronics",
         "title": "Leading Innovation in Consumer Electronics",
@@ -422,7 +430,7 @@
         "countryName": "South Korea",
         "placeName": "Samsung Digital City"
       },
-      {
+      { "id": 48,
         "image": "https://erp.today/wp-content/uploads/2022/05/ibm_0.jpeg",
         "name": "IBM",
         "title": "Pioneering Enterprise Technology",
@@ -431,7 +439,7 @@
         "countryName": "United States",
         "placeName": "IBM Headquarters"
       },
-      {
+      { "id": 49,
         "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2022/08/04/222569.jpg",
         "name": "Toyota Motor Corporation",
         "title": "Driving Innovation in Mobility",
@@ -440,7 +448,7 @@
         "countryName": "Japan",
         "placeName": "Toyota Headquarters"
       },
-      {
+      { "id": 50,
         "image": "https://i.ytimg.com/vi/ZMak63mHq5Y/maxresdefault.jpg",
         "name": "Netflix",
         "title": "Transforming the Entertainment Industry",
@@ -449,7 +457,7 @@
         "countryName": "United States",
         "placeName": "Netflix Headquarters"
       },
-      {
+      { "id": 51,
         "image": "https://abctrainings.in/media/thumbnails/Python-01_2_1.png",
         "name": "Python",
         "title": "The Versatile Programming Language",
@@ -458,7 +466,7 @@
         "countryName": "Various",
         "placeName": "Technology Industry"
       },
-      {
+      { "id": 52,
         "image": "https://files.ably.io/ghost/prod/2023/12/choosing-the-best-javascript-frameworks-for-your-next-project.png",
         "name": "JavaScript",
         "title": "The Language of the Web",
@@ -467,7 +475,7 @@
         "countryName": "Various",
         "placeName": "Web Development"
       },
-      {
+      { "id": 53,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz4QdAgxIlAvNlLxETyOaxNc8qI6F45_ZAVQ&s",
         "name": "Java",
         "title": "Write Once, Run Anywhere",
@@ -476,7 +484,7 @@
         "countryName": "Various",
         "placeName": "Software Industry"
       },
-      {
+      { "id": 54,
         "image": "https://media.licdn.com/dms/image/D5612AQGbnhsdREIvJg/article-cover_image-shrink_720_1280/0/1717078192231?e=2147483647&v=beta&t=XovGHrOcu3j4JST3dxyl8lmCFiuawhn4za952oQNn_Q",
         "name": "C++",
         "title": "The Powerhouse of Performance",
@@ -485,7 +493,7 @@
         "countryName": "Various",
         "placeName": "Game Development"
       },
-      {
+      { "id": 55,
         "image": "https://jelvix.com/wp-content/uploads/2021/01/c-uses.png",
         "name": "C#",
         "title": "Microsoft's Flagship Language",
@@ -494,7 +502,7 @@
         "countryName": "Various",
         "placeName": "Microsoft Ecosystem"
       },
-      {
+      { "id": 56,
         "image": "https://wellcreator.com/blog/wp-content/uploads/2024/03/php-wellcreator1.png",
         "name": "PHP",
         "title": "The Server-Side Scripting Language",
@@ -503,7 +511,7 @@
         "countryName": "Various",
         "placeName": "Web Development"
       },
-      {
+      { "id": 57,
         "image": "https://developer.apple.com/swift/images/swift-og.png",
         "name": "Swift",
         "title": "Apple's Fast and Safe Language",
@@ -512,7 +520,7 @@
         "countryName": "Various",
         "placeName": "Apple Ecosystem"
       },
-      {
+      { "id": 58,
         "image": "https://pbs.twimg.com/profile_images/1142154201444823041/O6AczwfV_400x400.png",
         "name": "Go",
         "title": "The Language of Scalable Systems",
@@ -521,7 +529,7 @@
         "countryName": "Various",
         "placeName": "Cloud Computing"
       },
-      {
+      { "id": 59,
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png",
         "name": "Rust",
         "title": "Safe and Efficient Systems Programming",
@@ -530,7 +538,7 @@
         "countryName": "Various",
         "placeName": "Systems Programming"
       },
-      {
+      { "id": 60,
         "image": "https://www.jrebel.com/sites/default/files/styles/social_preview_image/public/image/2021-01/what%20is%20kotlin%20banner%20image.png?itok=5fXxsx8f",
         "name": "Kotlin",
         "title": "The Future of Android Development",
@@ -539,7 +547,7 @@
         "countryName": "Various",
         "placeName": "Android Development"
       },
-      {
+      { "id": 61,
         "image": "https://egyptaccessibletravel.com/wp-content/uploads/2022/09/the-nile-river-in-africa.jpg",
         "name": "Nile River",
         "title": "The Longest River in the World",
@@ -548,7 +556,7 @@
         "countryName": "Egypt, Sudan, Ethiopia, and others",
         "placeName": "Nile Basin"
       },
-      {
+      { "id": 62,
         "image": "https://cdn.mos.cms.futurecdn.net/vjEasRVMEFbfdgAEPkVpu.jpg",
         "name": "Amazon River",
         "title": "The Largest River by Discharge",
@@ -557,7 +565,7 @@
         "countryName": "Brazil, Peru, Colombia, and others",
         "placeName": "Amazon Basin"
       },
-      {
+      { "id": 63,
         "image": "https://www.worldatlas.com/upload/e6/ce/bd/shutterstock-105290345.jpg",
         "name": "Mississippi River",
         "title": "The Lifeline of North America",
@@ -566,7 +574,7 @@
         "countryName": "United States",
         "placeName": "Mississippi Basin"
       },
-      {
+      { "id": 64,
         "image": "https://cdn.mos.cms.futurecdn.net/kaDuczYYRTQVm7ko9VLuPA-1000-80.jpg",
         "name": "Yangtze River",
         "title": "The Longest River in Asia",
@@ -575,7 +583,7 @@
         "countryName": "China",
         "placeName": "Yangtze Basin"
       },
-      {
+      { "id": 65,
         "image": "https://www.worldatlas.com/r/w768/upload/f9/f0/54/shutterstock-2930691021.jpg",
         "name": "Ganges River",
         "title": "The Sacred River of India",
@@ -584,7 +592,7 @@
         "countryName": "India, Bangladesh",
         "placeName": "Ganges Basin"
       },
-      {
+      { "id": 66,
         "image": "https://cdn.britannica.com/54/6954-050-A7871925/Central-Budapest-Danube-River-bank-Parliament-Building.jpg",
         "name": "Danube River",
         "title": "Europe’s Second-Longest River",
@@ -593,7 +601,7 @@
         "countryName": "Germany, Austria, Hungary, and others",
         "placeName": "Danube Basin"
       },
-      {
+      { "id": 67,
         "image": "https://static.toiimg.com/thumb/54736287/Mekong-River.jpg?width=1200&height=900",
         "name": "Mekong River",
         "title": "The Lifeblood of Southeast Asia",
@@ -602,7 +610,7 @@
         "countryName": "China, Laos, Thailand, Cambodia, Vietnam",
         "placeName": "Mekong Basin"
       },
-      {
+      { "id": 68,
         "image": "https://cdn.britannica.com/83/151983-050-69C4CE77/Volga-River-city-Ulyanovsk-Russia.jpg",
         "name": "Volga River",
         "title": "Europe’s Longest River",
@@ -611,7 +619,7 @@
         "countryName": "Russia",
         "placeName": "Volga Basin"
       },
-      {
+      { "id": 69,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJipxUNq1EqNokZZnCIfbIHXMZ0xoKO9IRNQ&s",
         "name": "Congo River",
         "title": "The Deepest River in the World",
@@ -620,7 +628,7 @@
         "countryName": "Democratic Republic of the Congo, Republic of the Congo",
         "placeName": "Congo Basin"
       },
-      {
+      { "id": 70,
         "image": "https://cdn.britannica.com/14/96314-050-9AC9F66D/Murray-River-South-Australia.jpg",
         "name": "Murray River",
         "title": "Australia’s Longest River",
@@ -629,7 +637,7 @@
         "countryName": "Australia",
         "placeName": "Murray-Darling Basin"
       },
-      {
+      { "id": 71,
         "image": "https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FAHF2FYISNJO55J6N35YJBZ2JYY.jpg?auth=171c173665f01eec7c47d3402e93d6cde41e26b1304f6ef49a2cc12ff5fcde24&width=5136&quality=80",
         "name": "Eiffel Tower",
         "title": "The Symbol of Paris",
@@ -638,7 +646,7 @@
         "countryName": "France",
         "placeName": "Paris"
       },
-      {
+      { "id": 72,
         "image": "https://cdn.britannica.com/82/94382-050-20CF23DB/Great-Wall-of-China-Beijing.jpg",
         "name": "Great Wall of China",
         "title": "The Longest Wall on Earth",
@@ -647,7 +655,7 @@
         "countryName": "China",
         "placeName": "Beijing"
       },
-      {
+      { "id": 73,
         "image": "https://imachupicchu.com/wp-content/uploads/imachu-picchu.jpg",
         "name": "Machu Picchu",
         "title": "The Lost City of the Incas",
@@ -656,7 +664,7 @@
         "countryName": "Peru",
         "placeName": "Cusco Region"
       },
-      {
+      { "id": 74,
         "image": "https://www.globalnationalparks.com/wp-content/uploads/national-park-grand-canyon.jpg",
         "name": "Grand Canyon",
         "title": "A Natural Wonder of the World",
@@ -665,7 +673,7 @@
         "countryName": "United States",
         "placeName": "Arizona"
       },
-      {
+      { "id": 75,
         "image": "https://plus.unsplash.com/premium_photo-1661964149725-fbf14eabd38c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c2FudG9yaW5pfGVufDB8fDB8fHww",
         "name": "Santorini",
         "title": "The Beautiful Greek Island",
@@ -674,7 +682,7 @@
         "countryName": "Greece",
         "placeName": "Santorini Island"
       },
-      {
+      { "id": 76,
         "image": "https://assets.cntraveller.in/photos/63d3a2623d7229d4cf308ead/4:3/w_4789,h_3592,c_limit/Inside%20AJ6DF4.jpg",
         "name": "Taj Mahal",
         "title": "The Jewel of India",
@@ -683,7 +691,7 @@
         "countryName": "India",
         "placeName": "Agra"
       },
-      {
+      { "id": 77,
         "image": "https://cdn.britannica.com/02/179502-138-AE3BE74C/effects-construction-Rome-Colosseum.jpg?w=800&h=450&c=crop",
         "name": "Colosseum",
         "title": "The Grand Amphitheater of Rome",
@@ -692,7 +700,7 @@
         "countryName": "Italy",
         "placeName": "Rome"
       },
-      {
+      { "id": 78,
         "image": "https://www.fitzroyisland.com/wp-content/uploads/2020/12/What-You-Need-to-Know-Before-Visiting-Australias-Great-Barrier-Reef.jpg",
         "name": "Great Barrier Reef",
         "title": "The World’s Largest Coral Reef",
